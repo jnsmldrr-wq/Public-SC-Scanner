@@ -1,0 +1,2192 @@
+{
+ "1212 Capital": {
+  "addrs": [],
+  "how": "all"
+ },
+ "1inch Swap": {
+  "addrs": [],
+  "how": "all"
+ },
+ "3Jane Lending": {
+  "addrs": [
+   "0xde6e08ac208088cc62812ba30608d852c6b0ecbc",
+   "0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc",
+   "0xd4fa2d31b7968e448877f69a96de69f5de8cd23e"
+  ],
+  "how": "eth-block"
+ },
+ "Aave V1": {
+  "addrs": [
+   "0x3dfd23a6c5e8bbcfc9581d2e864a68feb6a076d3",
+   "0x1012cff81a1582ddd0616517efb97d02c5c17e25"
+  ],
+  "how": "eth-block"
+ },
+ "Abracadabra Spell": {
+  "addrs": [
+   "0x9447c1413da928af354a114954bfc9e6114c5646",
+   "0x903c9974aaa431a765e60bc07af45f0a1b3b61fb",
+   "0x4985cc58c9004772c225aec9c36cc9a56ecc8c20",
+   "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+   "0x5698135ca439f21a57bddbe8b582c62f090406d5",
+   "0x3477df28ce70cecf61fffa7a95be4bec3b3c7e75",
+   "0x726413d7402ff180609d0ebc79506df8633701b1",
+   "0x85667409a723684fe1e57dd1abde8d88c2f54214",
+   "0xc89958b03a55b5de2221acb25b58b89a000215e6",
+   "0x4f9737e994da9811b8830775fd73e2f1c8e40741",
+   "0xc25cef6061cf5de5eb761b50e4743c1f5d7e5407",
+   "0xd7659d913430945600dfe875434b6d80646d552a"
+  ],
+  "how": "eth-block"
+ },
+ "ADI Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Aera V3": {
+  "addrs": [
+   "0x29722cc9a1cacff4a15914f9bc274b46f3b90b4f",
+   "0xa735faf51ae8bd0637b8468828dc83e2c24a8e60",
+   "0xd1883062629157ff6eae51ca355aca4f52d2bd4e"
+  ],
+  "how": "eth-block"
+ },
+ "Aevo Perps": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Agua": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Allbridge Classic": {
+  "addrs": [
+   "0xbbbd1bbb4f9b936c3604906d7592a644071de884",
+   "0xf7413489c474ca4399eee604716c72879eea3615",
+   "0xb1c9bc94acd2fae6aabf4ffae4429b93512a81d2",
+   "0x90b7e285ab6cf4e3a2487669dba3e339db8a3320",
+   "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+   "0x5ee3188a3f8adee1d736edd4ae85000105c88f66",
+   "0x788ba01f8e2b87c08b142db46f82094e0bdcad4f",
+   "0x6e512bfc33be36f2666754e996ff103ad1680cc9",
+   "0x8d2c7789652342e9405a15fa4f4721362495f92d",
+   "0x8e3670fd7b0935d3fe832711debfe13bb689b690",
+   "0x47264ae1fc0c8e6418ebe78630718e11a07346a8",
+   "0x173234922eb27d5138c5e481be9df5261faed450"
+  ],
+  "how": "eth-block"
+ },
+ "alphagrowth": {
+  "addrs": [
+   "0x05e09415398659b19c5aef202289270b37f1fb31",
+   "0xf81b08cb4669049049b9c2a38c7d27d480655bb3",
+   "0x44102929b2248b1cefe2e65e9d580893b6d6823a",
+   "0x9f876520f1937d4b4f6f4defe29fa5ea6d4526d0",
+   "0xc64fd6138f980a5587412dac75e04363046ae32e",
+   "0xeef57677c2fc1a930eed234e3545e750c88f6743",
+   "0x8d9ff30f8ecba197fe9492a0fd92310d75d352b9",
+   "0x36639ea17c35a4639eae371391497cb3d02d120a",
+   "0x95058f3d4c69f14f6125ad4602e925845bd5d6a4",
+   "0x3573a84bee11d49a1cbce2b291538de7a7dd81c6",
+   "0xbfdc482616787b420bc6c710212fe3167e7198e9",
+   "0x412d0e31790d77b6e7a7872a9fd6967b6e640229"
+  ],
+  "how": "eth-block"
+ },
+ "AlphaPing": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Ammalgam Vaults": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Angle": {
+  "addrs": [
+   "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+   "0x0c462dbb9ec8cd1630f1728b2cfd2769d09f0dd5",
+   "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+   "0x5addc89785d75c86ab939e9e15bfbbb7fc086a87",
+   "0xc9daabc677f3d1301006e723bd21c60be57a5915",
+   "0x53b981389cfc5dcda2dc2e903147b5dd0e985f44",
+   "0x6b4ee7352406707003bc6f6b96595fd35925af48",
+   "0x3f66867b4b6eceba0dbb6776be15619f73bc30a2",
+   "0x00253582b2a3fe112feec532221d9708c64cefab",
+   "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed",
+   "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+   "0xba3436fd341f2c8a928452db3c5a3670d1d5cc73"
+  ],
+  "how": "eth-block"
+ },
+ "Angstrom": {
+  "addrs": [
+   "0x0000000aa232009084bd71a5797d089aa4edfad4"
+  ],
+  "how": "eth-block"
+ },
+ "Anvil": {
+  "addrs": [
+   "0x5d2725fde4d7aa3388da4519ac0449cc031d675f"
+  ],
+  "how": "eth-block"
+ },
+ "Apex Omni": {
+  "addrs": [],
+  "how": "all"
+ },
+ "ApeX Pro": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Api3": {
+  "addrs": [
+   "0x9f0566f2e8ff51901dd0c0e7aad937a94931f75c",
+   "0x5a9aa3219dd1cbef6a18fd221464e071df2677c2",
+   "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+   "0x6dd655f10d4b9e242ae186d9050b68f725c76d76",
+   "0xcd34bc5b03c954268d27c9bc165a623c318bd0a8"
+  ],
+  "how": "eth-block"
+ },
+ "Apostro": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Arbitrum Nova Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Arrakis V1": {
+  "addrs": [
+   "0xea1aff9dbffd1580f6b81a3ad3589e66652db7d9",
+   "0x2845c6929d621e32b7596520c8a1e5a37e616f09",
+   "0x37265a834e95d11c36527451c7844ef346dc342a"
+  ],
+  "how": "all"
+ },
+ "Asymmetry Finance": {
+  "addrs": [
+   "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+   "0xf951e335afb289353dc249e82926178eac7ded78",
+   "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+   "0x0000000016e6cb3038203c1129c8b4aee7af7a11",
+   "0x00000069abbb0b1ad6975bcf753eee15d318a0bf",
+   "0x8668a15b7b023dc77b372a740fcb8939e15257cf",
+   "0xf119b5aa93a7755b09952b3a88d04cdaf5329034",
+   "0x59a529070fbb61e6d6c91f952ccb7f35c34cf8aa",
+   "0x972a53e3a9114f61b98921fb5b86c517e8f23fad",
+   "0x7b6633c0cd81dc338688a528c0a3f346561f5ca3",
+   "0x36ce17a5c81e74dc111547f5dffbf40b8bf6b20a",
+   "0xf4a1735505188daf0872312dd1a6182d342ea981"
+  ],
+  "how": "eth-block"
+ },
+ "Augur": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Aura": {
+  "addrs": [
+   "0x7818a1da7bd1e64c199029e86ba244a9798eee10",
+   "0xa57b8d98dae62b26ec3bcc4a365338157060b234",
+   "0xba12222222228d8ba445958a75a0704d566bf2c8",
+   "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+   "0x3fa73f1e5d8a792c80f426fc8f84fbf7ce9bbcac",
+   "0xba100000625a3754423978a60c9317c58a424e3d",
+   "0xc128a9954e6c874ea3d62ce62b468ba073093f25",
+   "0xaf52695e1bb01a16d33d7194c28c42b10e0dbec2",
+   "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+   "0xb1a4fe1c6d25a0ddab47431a92a723dd71d9021f",
+   "0xc181edc719480bd089b94647c2dc504e2700a2b0",
+   "0x6817149cb753bf529565b4d023d7507ed2ff4bc0"
+  ],
+  "how": "eth-block"
+ },
+ "Aurus": {
+  "addrs": [
+   "0xe4a6f23fb9e00fca037aa0ea0a6954de0a6c53bf",
+   "0x34abce75d2f8f33940c721dca0f562617787bff3",
+   "0x19b22dbadc298c359a1d1b59e35f352a2b40e33c"
+  ],
+  "how": "eth-block"
+ },
+ "Avantgarde": {
+  "addrs": [],
+  "how": "all"
+ },
+ "B.Protocol": {
+  "addrs": [
+   "0x60312e01a2acd1dac68838c949c1d20c609b20cf",
+   "0x3f30c2381cd8b917dd96eb2f1a4f96d91324bbed",
+   "0xbf698df5591caf546a7e087f5806e216afed666a",
+   "0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b",
+   "0xeae019ef845a4ffdb8829210de5d30ac6fbb5371",
+   "0x66017d22b0f8556afdd19fc67041899eb65a21bb",
+   "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+   "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+   "0xedc7905a491ff335685e2f2f1552541705138a3d",
+   "0x6d62d6af9b82cdfa3a7d16601ddbcf8970634d22",
+   "0x04208f296039f482810b550ae0d68c3e1a5eb719",
+   "0x24099000ae45558ce4d049ad46ddaaf71429b168"
+  ],
+  "how": "eth-block"
+ },
+ "Backpack": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Badger DAO": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Balancer V1": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Balancer V2": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Balancer V3": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Bancor V2.1": {
+  "addrs": [
+   "0x52ae12abe5d8bd778bd5397f99ca900624cfadd4",
+   "0xf6e2d7f616b67e46d708e4410746e9aab3a4c518"
+  ],
+  "how": "eth-block"
+ },
+ "Bancor V3": {
+  "addrs": [
+   "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+   "0x649765821d9f64198c905ec0b2b037a4a52bc373",
+   "0xeef417e1d5cc832e619ae18d2f140de2999dd4fb"
+  ],
+  "how": "eth-block"
+ },
+ "Baseline Protocol": {
+  "addrs": [
+   "0xc81fd894c0ace037d133af4886550ac8133568e8",
+   "0x9fdbde76236998dc2836fe67a9954ede456a1d63"
+  ],
+  "how": "eth-block"
+ },
+ "BendDAO APE Staking": {
+  "addrs": [],
+  "how": "eth-block"
+ },
+ "Bifrost Liquid Staking": {
+  "addrs": [],
+  "how": "eth-block"
+ },
+ "BigONE": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Bio Protocol": {
+  "addrs": [
+   "0xcb1592591996765ec0efc1f92599a19767ee5ffa",
+   "0xf91a12742aa609d41513a137d3c36b749f56f40c",
+   "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
+   "0xb90f1028266210a007780e6a37d2c36738830f69",
+   "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+   "0x3350153900c0bd8dfdbfe77b274ac4e49d002588",
+   "0xa4ffdf3208f46898ce063e25c1c43056fa754739",
+   "0x67cdf8faf53fe5411940cae499799242c6dfcecc",
+   "0x761a3557184cbc07b7493da0661c41177b2f97fa",
+   "0xd12e4175619607a39299388d0f8a4233f3121e79",
+   "0xf4308b0263723b121056938c2172868e408079d0",
+   "0x0bb56479c5d9d253e22380ecfe9a2885aa126cca"
+  ],
+  "how": "eth-block"
+ },
+ "Bitlo": {
+  "addrs": [],
+  "how": "all"
+ },
+ "BitMart": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Bitrue": {
+  "addrs": [
+   "0x6cc8dcbca746a6e4fdefb98e1d0df903b107fd21",
+   "0x4fd797f0cc7c87b1b48b0a0db6b66db63780717d",
+   "0x0cabd4fa219af5954ffb4fb3d88c7f950f80c05d",
+   "0x868f027a5e3bd1cd29606a6681c3ddb7d3dd9b67",
+   "0xa813251e163766361adfb9700748397977a54ea0",
+   "0x7560b22b42b3e2596bd989764f1eb9bec1896c8d",
+   "0x20a02aca8f66cbf324c61dc9c1c40d48a8946651"
+  ],
+  "how": "eth-block"
+ },
+ "BitVenus": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Bitwise": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Blast Bridge": {
+  "addrs": [
+   "0xa230285d5683c74935ad14c446e137c8c8828438",
+   "0x98078db053902644191f93988341e31289e1c8fe",
+   "0x5f6ae08b8aeb7078cf2f96afb089d7c9f51da47d"
+  ],
+  "how": "eth-block"
+ },
+ "Blast pre-launch Farm": {
+  "addrs": [
+   "0x5f6ae08b8aeb7078cf2f96afb089d7c9f51da47d",
+   "0x373238337bfe1146fb49989fc222523f83081ddb"
+  ],
+  "how": "eth-block"
+ },
+ "Blur Bids": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Blur Lending": {
+  "addrs": [],
+  "how": "all"
+ },
+ "BOB Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Boba Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "BounceBit Prime": {
+  "addrs": [
+   "0x6f776d791612a22a70e206602cff96185695c580"
+  ],
+  "how": "eth-block"
+ },
+ "Brickken": {
+  "addrs": [
+   "0x91af681c85ca98efc5d69c1b62e6f435030969db",
+   "0xce4529fe88df480bd777d3e32dfd7032e6c685ff",
+   "0x278d7bdc2451b0fa4087a68ce084a86cb91d4d83",
+   "0xc6c230fa8f40022de997727436fae01caabcde61",
+   "0x1bb57e2abf2822c01ccaebccbc9d16c7fd0c1956"
+  ],
+  "how": "eth-block"
+ },
+ "BYDFi": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Byte Exchange": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Capyfi": {
+  "addrs": [],
+  "how": "all"
+ },
+ "cBridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "CEX.IO": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Chain Fusion": {
+  "addrs": [
+   "0xb25ea1d493b49a1ded42ac5b1208cc618f9a9b80"
+  ],
+  "how": "eth-block"
+ },
+ "ClayStack ETH": {
+  "addrs": [],
+  "how": "all"
+ },
+ "CLever": {
+  "addrs": [
+   "0xba12222222228d8ba445958a75a0704d566bf2c8",
+   "0x6c280db098db673d30d5b34ec04b6387185d3620",
+   "0x86e917ad6cb44f9e6c8d9fa012acf0d0cfcf114f",
+   "0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6",
+   "0xf758be28e93672d1a8482be15eaf21aa5450f979",
+   "0x9b02548de409d7aaee228bfa3ff2bca70e7a2fe8",
+   "0xdec800c2b17c9673570fdf54450dc1bd79c8e359",
+   "0xc5022291ca8281745d173bb855dcd34dda67f2f0",
+   "0xeb0ea9d24235ab37196111eedd656d56ce4f53b1",
+   "0xb2fcee71b25b62bafe442c58af58c42143673cc1",
+   "0xad4cac207a0bfed10df8a4fc6a28d377cac730e0",
+   "0x2c37f1dced208530a05b061a183d8937f686157e"
+  ],
+  "how": "eth-block"
+ },
+ "Compound V1": {
+  "addrs": [
+   "0x3fda67f7583380e67ef93072294a7fac882fd7e7"
+  ],
+  "how": "eth-block"
+ },
+ "Contango V2": {
+  "addrs": [
+   "0x6cae28b3d09d8f8fc74ccd496ac986fc84c0c24e",
+   "0xe03835dfae2644f37049c1fef13e8ced6b1bb72a"
+  ],
+  "how": "eth-block"
+ },
+ "Convergence Fi": {
+  "addrs": [
+   "0xb0afc8363b8f36e0cce5d54251e20720ffaeaee7",
+   "0xa3a8cda21f50b6737385e46fc9495a9998b05ff0",
+   "0x97effb790f2fbb701d88f89db4521348a2b77be8",
+   "0x4b3bd8906083bde267a79e4131af7a6f723960c8",
+   "0x865e59ebc3ee9edd5656cd79b382f5153e466545",
+   "0x2191df768ad71140f9f3e96c1e4407a4aa31d082"
+  ],
+  "how": "eth-block"
+ },
+ "CRETH2": {
+  "addrs": [
+   "0x49d72e3973900a195a155a46441f0c08179fdb64"
+  ],
+  "how": "eth-block"
+ },
+ "cVault Finance": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Cyclone": {
+  "addrs": [],
+  "how": "all"
+ },
+ "DAMM Capital": {
+  "addrs": [],
+  "how": "all"
+ },
+ "deBridge": {
+  "addrs": [
+   "0x43de2d77bf8027e25dbd179b491e8d64f38398aa"
+  ],
+  "how": "all"
+ },
+ "Decentralized Euro": {
+  "addrs": [
+   "0x5052d3cc819f53116641e89b96ff4cd1ee80b182",
+   "0x1ba26788dfde592fec8bcb0eaff472a42be341b2",
+   "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
+   "0x103747924e74708139a9400e4ab4bea79fffa380",
+   "0xc71104001a3ccda1bef1177d765831bd1bfe8ee6",
+   "0x8b3c41c649b9c7085c171cbb82337889b3604618"
+  ],
+  "how": "eth-block"
+ },
+ "Defi Swap": {
+  "addrs": [],
+  "how": "all"
+ },
+ "DeFIL": {
+  "addrs": [
+   "0x09ce2b746c32528b7d864a1e3979bd97d2f095ab",
+   "0xd372a3221021df72eda38f77117d3a95f057e163",
+   "0xb685bfdad9da7093168ab75204bbcadf0c69c823",
+   "0x9e08bd9a1e3880902688b32d563046cab74d2f2f",
+   "0x312c6ffe7743b964be6da9131e662af5bac55199",
+   "0x01aabbad98a7638b7f8d65e7ec42560f1afbbf0c",
+   "0x6b0c7d013cc0b461490287cc20aa9f34f950a6a6",
+   "0x272257bb03a2b99978a1e6badeba7ccba444d285",
+   "0xde6239b3138910c68f318e799b3d332925e9929f",
+   "0x6b9ee349810e660dda9e3557c7a7412e5424ea39",
+   "0x6c753ca90bad578504314699580c8b01e067a765",
+   "0x6b6811a710f07b8ac430f6e172833e87c4bd8716"
+  ],
+  "how": "eth-block"
+ },
+ "Dialectic": {
+  "addrs": [
+   "0x8c9918abe972f3c8a478e9a5912ecdc0a2e0ba0c",
+   "0xcd9f5907f92818bc06c9ad70217f089e190d2a32",
+   "0x41ce72e04d349eb957bdc373baa9c69207032c56"
+  ],
+  "how": "eth-block"
+ },
+ "Digital Gold": {
+  "addrs": [
+   "0xa9299c296d7830a99414d1e5546f5171fa01e9c8"
+  ],
+  "how": "eth-block"
+ },
+ "Dinero (pxETH)": {
+  "addrs": [
+   "0x04c154b66cb340f3ae24111cc767e0184ed00cc6",
+   "0x55769490c825ccb09b2a6ae955203fabf04857fd"
+  ],
+  "how": "eth-block"
+ },
+ "DODO AMM": {
+  "addrs": [
+   "0x72d220ce168c4f361dd4dee5d826a01ad8598f6c",
+   "0x3a97247df274a17c59a3bd12735ea3fcdfb49950",
+   "0x6fddb76c93299d985f4d3fc7ac468f9a168577a4",
+   "0x5336ede8f971339f6c0e304c66ba16f1296a2fbe",
+   "0xb5dc5e183c2acf02ab879a8569ab4edaf147d537",
+   "0x6b4fa0bc61eddc928e0df9c7f01e407bfcd3e5ef",
+   "0x710409d2121b7c8ea4acadd6803fde2d85df6473",
+   "0x306227d964511a260d14563fbfa82aa75db404b2",
+   "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
+   "0xda4c4411c55b0785e501332354a036c04833b72b",
+   "0xc8fe2440744dcd733246a4db14093664defd5a53",
+   "0xbcc3401e16c25eaf4d3fed632ce3288503883b1f"
+  ],
+  "how": "eth-block"
+ },
+ "Easedefi.org": {
+  "addrs": [
+   "0xea5edef1287afdf9eb8a46f9773abfc10820c61c",
+   "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+   "0x1337def1fc06783d4b03cb8c1bf3ebf7d0593fc4",
+   "0xea5edef17c9be57228389962ba50b98397f1e28c",
+   "0xea5edef1edb2f47b9637c029a6ac3b80a7ae1550",
+   "0x8f247eb2d71beeacdf212f8bc748f09cdf7144c0"
+  ],
+  "how": "eth-block"
+ },
+ "Eclipse Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "edgeX Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Eigenpie": {
+  "addrs": [
+   "0x20b70e4a1883b81429533fed944d7957121c7cab",
+   "0x24db6717db1c75b9db6ea47164d8730b63875db7",
+   "0x98083e22d12497c1516d3c49e7cc6cd2cd9dcba4",
+   "0x18f313fc6afc9b5fd6f0908c1b3d476e3fea1dd9",
+   "0xefefefefefefefefefefefefefefefefefefefef"
+  ],
+  "how": "eth-block"
+ },
+ "Ekubo": {
+  "addrs": [
+   "0xe0e0e08a6a4b9dc7bd67bcb7aade5cf48157d444",
+   "0x00000000000014aa86c5d3c41765bb24e11bd701"
+  ],
+  "how": "eth-block"
+ },
+ "Ensuro": {
+  "addrs": [
+   "0x8238884ec9668ef77b90c6dff4d1a9f4f4823bfe",
+   "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+   "0x207158a267cbd2598bb3d611d8cbdee2709f2f8c",
+   "0xe108fbc04852b5df72f9e44d7c29f47e7a993add",
+   "0x4ef53d2caa51c447fdfeeedee8f07fd1962c9ee6",
+   "0x56bfa6f53669b836d1e0dfa5e99706b12c373ecf",
+   "0x8c106eedad96553e64287a5a6839c3cc78afa3d0",
+   "0xdcd8cb1e2ba62faef6c4c258508d7d959e5f3408",
+   "0x55bae6690d46ea94d7f05df7c80a85e322421fb6",
+   "0xa551285b49a29cbdbae7fc5c6a61fadc918ad224",
+   "0x12a4f34d27b1d54defd4eb39799971e26d9025e7",
+   "0x176057c7d384ffc8fee977615e4bf9c31f5341c2"
+  ],
+  "how": "eth-block"
+ },
+ "Equilibria": {
+  "addrs": [
+   "0x4d32c8ff2facc771ec7efc70d6a8468bc30c26bf",
+   "0x64627901dadb46ed7f275fd4fc87d086cff1e6e3",
+   "0xfe80d611c6403f70e5b1b9b722d2b3510b740b2b",
+   "0xd8967b2b15b3cdf96039b7407813b4037f73ec27",
+   "0x808507121b80c02388fad14726482e061b8da827",
+   "0x22fc5a29bd3d6cce19a06f844019fd506fce4455",
+   "0x357f55b46821a6c6e476cc32ebb2674cd125e849",
+   "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c",
+   "0x70f61901658aafb7ae57da0c30695ce4417e72b9",
+   "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+   "0x3eabe18eae267d1b57f917aba085bb5906114600",
+   "0x9739d1e515c5291faa26d92a5d02761b6bbb4d6f"
+  ],
+  "how": "eth-block"
+ },
+ "ETH Strategy": {
+  "addrs": [
+   "0xb250c9e0f7be4cff13f94374c993ac445a1385fe"
+  ],
+  "how": "eth-block"
+ },
+ "Ethereal Season Zero": {
+  "addrs": [],
+  "how": "all"
+ },
+ "EtherFlip": {
+  "addrs": [],
+  "how": "all"
+ },
+ "eva Markets": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Fake World Assets V2": {
+  "addrs": [
+   "0x958c41181182e76f221331b2755b77d9e1426a98",
+   "0x716486a7bd6b4d7409fc4f8b52f0b23d2bcfac72",
+   "0xf5a3a153164791ab579c3d9ba5dbecf7cdfd300c"
+  ],
+  "how": "eth-block"
+ },
+ "FermiSwap": {
+  "addrs": [
+   "0xb1076fe3ab5e28005c7c323bac5ac06a680d452e"
+  ],
+  "how": "eth-block"
+ },
+ "Fira": {
+  "addrs": [
+   "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
+   "0x62f5366c9e21a95326c461a098a408e034e017b3",
+   "0xa428723ee8ffd87088c36121d72100b43f11fb6a"
+  ],
+  "how": "eth-block"
+ },
+ "Flex": {
+  "addrs": [
+   "0x9117440a7d03238905d1c8908157bd7a547c77c8"
+  ],
+  "how": "all"
+ },
+ "Flexa": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Flipster": {
+  "addrs": [],
+  "how": "all"
+ },
+ "FlokiFi Locker": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Flying Tulip Lend": {
+  "addrs": [
+   "0x7a2fd34e4cc4c8b1023576a3f3d1f7aa36cf8b47",
+   "0xbb155f15d8452139d1a9c3a664847d2f8314c18e",
+   "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
+   "0x7127bb9d9ad0f47b8da9087e634d67f3946f840e",
+   "0x8b98e46421898437862de44aa63b73b2da69147b",
+   "0xd6587e78d252e630d425ecd827017bf81b0ac553",
+   "0x50c42deacd8fc9773493ed674b675be577f2634b",
+   "0x727bc187150d5599e7fba32732c21c6d9f5b1837",
+   "0x000000000eccff26b795f73fb0a70d48da657fef",
+   "0x0e794b1fd35a7a5550cd3e305882369ffb2df7f7",
+   "0xf7d85ec4e7710f71992752eac2111312e73e9c9c",
+   "0xc67d966f761e8cf13faa0a1e774425290c8453d9"
+  ],
+  "how": "eth-block"
+ },
+ "Fomo3D": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Frax Swap": {
+  "addrs": [
+   "0x2397321b301b80a1c0911d6f9ed4b6033d43cf51",
+   "0xf2b9155e3c9756a18ef6572fc99b39f88a9fff25",
+   "0x247b71d57ac80883364599ad5c9d74ea5edc8660",
+   "0xb076b06f669e682609fb4a8c6646d2619717be4b",
+   "0x43ec799eadd63848443e2347c49f5f52e8fe0f6f",
+   "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
+   "0x8374a74a728f06bea6b7259c68aa7bbb732bfead",
+   "0xf77ca9b635898980fb219b4f4605c50e4ba58aff",
+   "0xa007a9716dba05289df85a90d0fd9d39bee808de",
+   "0xf89e6ca06121b6d4370f4b196ae458e8b969a011",
+   "0x67b7da7c0564c6ac080f0a6d9fb4675e52e6bf1d",
+   "0xf55c563148ca0c0f1626834ec1b8651844d76792"
+  ],
+  "how": "all"
+ },
+ "Fuel Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "GAIB": {
+  "addrs": [
+   "0x18f52b3fb465118731d9e0d276d4eb3599d57596"
+  ],
+  "how": "eth-block"
+ },
+ "Gamma": {
+  "addrs": [
+   "0x64fcdd0de44f4bd04c039b0664fb95ef033d4efb",
+   "0x96c105e9e9eab36eb8e2f851a5dabfbbd397c085",
+   "0xebae3cb14ce6c2f26b40b747fd92ccaf03b98659",
+   "0xf178d88d2f6f97ca32f92b465987068e1cce41c5",
+   "0x26805021988f1a45dc708b5fb75fc75f21747d8c",
+   "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+   "0xa9782a2c9c3fb83937f14cdfac9a6d23946c9255",
+   "0x31ccdb5bd6322483bebd0787e1dabd1bf1f14946",
+   "0x2e18b825b049c4994370b0db6c35d0100295b96c",
+   "0x0ac4c7b794f3d7e7bf1093a4f179ba792cf15055",
+   "0x97686103b3e7238ca6c2c439146b30adbd84a593",
+   "0xaec731f69fa39ad84c7749e913e3bc227427adfd"
+  ],
+  "how": "eth-block"
+ },
+ "Gate US": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Gnosis Protocol v1": {
+  "addrs": [
+   "0xc59b0e4de5f1248c1140964e0ff287b192407e0c",
+   "0x6f400810b62df8e13fded51be75ff5393eaa841f",
+   "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+   "0xc00e94cb662c3520282e6f5717214004a7f26888",
+   "0x22eeab2f980e8ed7824f8ea548c9595564a0f0e4",
+   "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+   "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+   "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
+  ],
+  "how": "eth-block"
+ },
+ "Goldfinch": {
+  "addrs": [
+   "0x8481a6ebaf5c7dabc3f7e09e44a89531fd31f822",
+   "0xd20508e1e971b80ee172c73517905bfffcbd87f9",
+   "0x57686612c601cb5213b01aa8e80afeb24bbd01df"
+  ],
+  "how": "eth-block"
+ },
+ "Gondi V3": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Gravity by Galxe": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Gro": {
+  "addrs": [
+   "0x3ec8798b81485a254928b70cda1cf0a2bb0b74d7",
+   "0x3adb04e127b9c0a5d36094125669d4603ac52a0c",
+   "0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b",
+   "0x2ac5bc9dda37601edb1a5e29699deb0a5b67e9bb",
+   "0x21c5918ccb42d20a2368bdca8feda0399ebfd2f6",
+   "0xbcb91e689114b9cc865ad7871845c95241df4105",
+   "0x702605f43471183158938c1a3e5f5a359d7b31ba",
+   "0x001c249c09090d79dc350a286247479f08c7aad7",
+   "0x2e32bad45a1c29c1ea27cf4dd588df9e68ed376c",
+   "0x57daed1ee021be9991f5d30cf494b6b09b5b449e",
+   "0x5e57e11483a3f60a76af3045303604522059da2a",
+   "0x471f4b4b9a97f82c3a25b034b33a8e306ee9beb5"
+  ],
+  "how": "eth-block"
+ },
+ "Hakka Finance": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Harvest Finance": {
+  "addrs": [],
+  "how": "all"
+ },
+ "HashKey Global": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Hashport": {
+  "addrs": [
+   "0x367e59b559283c8506207d75b0c5d8c66c4cd4b7",
+   "0xf4c0153a8bdb3dfe8d135ce3be0d45e14e5ce53d",
+   "0x9021926be887355b76e60f4148ebb6b3f1ffafcc",
+   "0xd8df34a071179fe8cef910ae0b43cde49d611b49",
+   "0x6da4e99b62b8d910e1688e34121cd8d50b7c0c3e",
+   "0x984bb007b41a865bd8a9db9ca919000fbab5893a",
+   "0x475b21ade54b9494d8201e0330ca7994081f4e0f",
+   "0x617d29b4bae43b3aa3d63b7f61177600036d2f6b",
+   "0x0f3414b61b902513e04e76ca4d1a7b003d09f54b",
+   "0x36daafd7c305677905a643cf1a0c74a281c6413c",
+   "0x3b32202a662353dcb4dbb983adbdf2ab49181506"
+  ],
+  "how": "all"
+ },
+ "Hegic": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Hemi": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Hibt": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Hop Protocol": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Hub Capital": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Hyperlane": {
+  "addrs": [],
+  "how": "all"
+ },
+ "IDEX Classic": {
+  "addrs": [
+   "0xe5c405c5578d84c5231d3a9a29ef4374423fa0c2",
+   "0xa36972e347e538e6c7afb9f44fb10dda7bba9ba2",
+   "0xc88c5b8951dd877afe5558a48450d0ef18121283",
+   "0x8c788aa08a98002413f6350c29c017aefb2c08c7",
+   "0x3bcc4eca0a40358558ca8d1bcd2d1dbde63eb468",
+   "0x3253a7e75539edaeb1db608ce6ef9aa1ac9126b6"
+  ],
+  "how": "eth-block"
+ },
+ "Idle": {
+  "addrs": [
+   "0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d",
+   "0x79f05f75df6c156b2b98ac1fbfb3637fc1e6f048",
+   "0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a",
+   "0xa9f908da2e3ec7475a743e97bb5b06081b688ae4",
+   "0xc8e6ca6e96a326dc448307a5fde90a0b21fd7f80",
+   "0x5c960a3dcc01be8a0f49c02a8cebcacf5d07fabe",
+   "0xb2d5cb72a621493fe83c6885e4a776279be595bc",
+   "0x3fe7940616e5bc47b0775a0dccf6237893353bb4",
+   "0x5274891bec421b39d23760c04a6755ecb444797c",
+   "0xf34842d05a1c888ca02769a633df37177415c2f8",
+   "0xf52cdcd458bf455aed77751743180ec4a595fd3f",
+   "0xc278041fdd8249fe4c1aad1193876857eea3d68c"
+  ],
+  "how": "eth-block"
+ },
+ "InceptionLRT (Isolated Restaking)": {
+  "addrs": [
+   "0x814cc6b8fd2555845541fb843f37418b05977d8d",
+   "0xc4181dc7bb31453c4a48689ce0cbe975e495321c",
+   "0x36b429439ab227fab170a4dfb3321741c8815e55",
+   "0xfe715358368416e01d3a961d3a037b7359735d5e",
+   "0x90e80e25abdb6205b08deba29a87f7eb039023c2",
+   "0x6e17a8b5d33e6dbdb9fc61d758bf554b6ad93322",
+   "0xd0ee89d82183d7ddaef14c6b4fc0aa742f426355",
+   "0x4878f636a9aa314b776ac51a25021c44caf86bed",
+   "0xa9f8c770661bee8df2d026edb1cb6ff763c780ff",
+   "0x1aa53bc4beb82adf7f5edee9e3bbf3434ad59f12",
+   "0x295234b7e370a5db2d2447aca83bc7448f151161",
+   "0xc0660932c5dcad4a1409b7975d147203b1e9a2b6"
+  ],
+  "how": "eth-block"
+ },
+ "Index Coop": {
+  "addrs": [
+   "0x9d08cced85a68bf8a19374ed4b5753ae3be9f74f",
+   "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+   "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+   "0x65c4c0517025ec0843c9146af266a2c5a2d148a2",
+   "0x23c3e5b3d001e17054603269edfc703603adefd8",
+   "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
+   "0xada0a1202462085999652dc5310a7a9e2bf3ed42",
+   "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+   "0xd2ac55ca3bbd2dd1e9936ec640dcb4b745fde759",
+   "0xc7068657fd7ec85ea8db928af980fc088aff6de5",
+   "0x1d86fbad389068e19fa665eba12a0ebd4c68bb08",
+   "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6"
+  ],
+  "how": "eth-block"
+ },
+ "Injective Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Interest Protocol": {
+  "addrs": [
+   "0x4aae9823fb4c70490f1d802fc697f3fff8d5cbe3",
+   "0x2a54ba2964c8cd459dc568853f79813a60761b58",
+   "0x889be273be5f75a177f9a1d00d84d607d75fb4e1",
+   "0x7131ff92a3604966d7d96ccc9d596f7e9435195c",
+   "0x05498574bd0fa99eecb01e1241661e7ee58f8a85"
+  ],
+  "how": "eth-block"
+ },
+ "Inverse Finance Frontier": {
+  "addrs": [
+   "0x4dcf7407ae5c07f8681e1659f626e114a7667339",
+   "0x7ec0d931affba01b77711c2cd07c76b970795cdd",
+   "0x89ec5df87a5186a0f0fa8cb84edd815de6047357",
+   "0xc8f2e91dc9d198eded1b2778f6f2a7fd5bbeac34",
+   "0x41d079ce7282d49bf4888c71b5d9e4a02c371f9b",
+   "0x2dcdca085af2e258654e47204e483127e0d8b277",
+   "0x697b4acaa24430f254224eb794d2a85ba1fa1fb8",
+   "0x8e103eb7a0d01ab2b2d29c91934a9ad17eb54b86",
+   "0x865377367054516e17014ccded1e7d814edc9ce4"
+  ],
+  "how": "eth-block"
+ },
+ "Juicebox V1": {
+  "addrs": [],
+  "how": "all"
+ },
+ "K2": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Kamui": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Katana Pre-Launch": {
+  "addrs": [
+   "0xf470eb50b4a60c9b069f7fd6032532b8f5cc014d",
+   "0xa5dab32dbe68e6fa784e1e50e4f620a0477d3896",
+   "0xe1ac97e2616ad80f69f705ff007a4bbb3655544a",
+   "0x77570cfecf83bc6bb08e2cd9e8537aea9f97ea2f",
+   "0x69d210d3b60e939bfa6e87cccc4fab7e8f44c16b",
+   "0x75231079973c23e9eb6180fa3d2fc21334565ab5"
+  ],
+  "how": "eth-block"
+ },
+ "Keep3r Network": {
+  "addrs": [
+   "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+   "0xeb02addcfd8b773a5ffa6b9d1fe99c566f8c44cc",
+   "0x2fc52c61fb0c03489649311989ce2689d93dc1a2",
+   "0x79e0d4858af8071349469b6589a3c23c1fe1586e",
+   "0xaf988aff99d3d0cb870812c325c588d8d8cb7de8",
+   "0x18ee956e99cc606530c20d9cadd6af5ece08d89f",
+   "0x9c2efb900290402fd2b891170085b9d651bfc5ce",
+   "0x71852e888a601c9bbb6f48172a9bfbd8010aa810",
+   "0x5271d250bf9528981846a9dd94a97cbbe7318817",
+   "0xa42f219d4394216d851d75dcb6b742595146379c",
+   "0xeaebf8736ec441eecec31533ebd3a21d61caa252",
+   "0x8704850232ab7f3490f64b14fd8c8b3e6e411914"
+  ],
+  "how": "eth-block"
+ },
+ "Keyrock": {
+  "addrs": [],
+  "how": "all"
+ },
+ "King Protocol": {
+  "addrs": [
+   "0x8f08b70456eb22f6109f57b8fafe862ed28e6040"
+  ],
+  "how": "all"
+ },
+ "KUMA Protocol": {
+  "addrs": [
+   "0x01bf66becdcfd6d59a5ca18869f494fea086cdfd",
+   "0xf2b5c482358dbaa495d442b57c163dbedbf7868e",
+   "0x2cb7285733a30bb08303b917a7a519c88146c6eb",
+   "0xa66818b5bda74c081a9582d8aa8929fae77e214a",
+   "0x7a6aa80b49017f3e091574ab5c6977d863ff3865",
+   "0x09b88f74fb9e243c4a3f4d2ffe3d1ba4287a476c"
+  ],
+  "how": "eth-block"
+ },
+ "LandX Finance": {
+  "addrs": [
+   "0x8a78c1042f24349595f36f1a83091163487f2241",
+   "0xd4630ecee730dc19d092869f9cdd19204a5a131e",
+   "0x3356328a3ca51d2664620757bd1c475ca77ffab5",
+   "0x0d9554ceebcd34a5796ce09216040e1ed58e1193",
+   "0x5074c4fa383d63d62d5f531d1cf92125fb39e859",
+   "0x803205486937a151acf0ee14fd14caf10ef24c39",
+   "0x1b2b0fa9283595f5036c007dd99ed0aa6de8362e",
+   "0x44c7aca9c406ded532748194da0d691808473ac9",
+   "0xf49a0863d532e6036d693fbacfd2417aebda8784",
+   "0xc1b9119ea8f8164be56eb15674107a8d1b09c285"
+  ],
+  "how": "eth-block"
+ },
+ "Latch": {
+  "addrs": [
+   "0xfe606eec8eb8e6ad8e8654968a15650f5331a023",
+   "0x7cc08f23a6e8222c86a62fce3d4d252dd1b8f90c",
+   "0xa116b4680b52973426b6d2a92dcc972b8dbcb46f",
+   "0x97ca296139f114bf3040cf05d05c240b770c627e"
+  ],
+  "how": "eth-block"
+ },
+ "LBank": {
+  "addrs": [],
+  "how": "all"
+ },
+ "LendFlare": {
+  "addrs": [
+   "0x10a377ba353cd480e43800018a27742054904c1a",
+   "0x2fbe41e4861b5d0936aa01bb32bd3402d34f11fa",
+   "0xcc29655c9f9a211fb11c25d905306aa93a685ef3",
+   "0x6d18e830a938f0eaf206f1bd80b79a851e5f37a3",
+   "0x4c3c78cebc9cc87436deed2782998bc002f2b69f",
+   "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+   "0x51cec58171863ea82ce3b99a190f3843fe7aabf5",
+   "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+   "0x85b7cc4fd8767651c752d9ea76fc7dd388e391a0",
+   "0x49849c98ae39fff122806c06791fa73784fb3675",
+   "0x2d3a0eca75c429b00627af759a14223c34bf910f",
+   "0xb19059ebb43466c323583928285a49f558e572fd"
+  ],
+  "how": "eth-block"
+ },
+ "LeveX": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Lista DEX": {
+  "addrs": [],
+  "how": "eth-block"
+ },
+ "Lista Lending": {
+  "addrs": [
+   "0xf820fb4680712cd7263a0d3d024d5b5aea82fd70",
+   "0x8f73b65b4caaf64fba2af91cc5d4a2a1318e5d8c"
+  ],
+  "how": "eth-block"
+ },
+ "Llama Airforce": {
+  "addrs": [
+   "0x83507cc8c8b67ed48badd1f59f684d5d02884c81",
+   "0x4ebad8dbd4edbd74db0278714fbd67ebc76b89b7",
+   "0xde2bef0a01845257b4aef2a2eaa48f6eaeafa8b7",
+   "0xf964b0e3ffdea659c44a5a52bc0b82a24b89ce0e",
+   "0x3a886455e5b33300a31c5e77bac01e76c0c7b29c",
+   "0x9bfd08d7b3cc40129132a17b4d5b9ea3351464bd",
+   "0x8659fc767cad6005de79af65dafe4249c57927af",
+   "0x8c4eb0fc6805ee7337ac126f89a807271a88dd67",
+   "0xbce0cf87f513102f22232436cca2ca49e815c3ac"
+  ],
+  "how": "eth-block"
+ },
+ "LUSD ChickenBonds": {
+  "addrs": [
+   "0x57619fe9c539f890b19c61812226f9703ce37137"
+  ],
+  "how": "eth-block"
+ },
+ "MCDEX": {
+  "addrs": [
+   "0x220a9f0dd581cbc58fcfb907de0454cbf3777f76",
+   "0xa017b813652b93a0af2887913efcbb4ab250ce65",
+   "0xfb4cd1bf5c5919a29fb894c8ddc4a69a36f5ec87"
+  ],
+  "how": "eth-block"
+ },
+ "MegaETH Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Mento V2": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Metronome Synth": {
+  "addrs": [],
+  "how": "all"
+ },
+ "MEV Capital": {
+  "addrs": [
+   "0xd63070114470f685b75b74d60eec7c1113d33a3d",
+   "0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8",
+   "0xd50da5f859811a91fd1876c9461fd39c23c747ad",
+   "0x749794e985af5a9a384b9cee6d88dab4ce1576a1",
+   "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775",
+   "0x98cf0b67da0f16e1f8f1a1d23ad8dc64c0c70e0b",
+   "0x28d24d4380b26a1ef305ad8d8db258159e472f33",
+   "0xd41830d88dfd08678b0b886e0122193d54b02acc",
+   "0x1265a81d42d513df40d0031f8f2e1346954d665a",
+   "0x5f7827fdeb7c20b443265fc2f40845b715385ff2",
+   "0x5422374b27757da72d5265cc745ea906e0446634",
+   "0xda4063ec62c3f3c1d2bdbf7dbfb2b2c906f8e8b2"
+  ],
+  "how": "eth-block"
+ },
+ "Mezo Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Mode Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Morph Bridge": {
+  "addrs": [
+   "0xdc71366effa760804dcfc3edf87fa2a6f1623304"
+  ],
+  "how": "eth-block"
+ },
+ "mStable CDP": {
+  "addrs": [
+   "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+   "0x945facb997494cc2570096c74b5f66a3507330a1",
+   "0x48c59199da51b7e30ea200a74ea07974e62c4ba7",
+   "0xb61a6f928b3f069a68469ddb670f20eeeb4921e0",
+   "0xc3280306b6218031e61752d060b091278d45c329",
+   "0xfe842e95f8911dcc21c943a1daa4bd641a1381c6",
+   "0x4fb30c5a3ac8e85bc32785518633303c4590752d",
+   "0x4eaa01974b6594c0ee62ffd7fee56cf11e6af936",
+   "0x36f944b7312eac89381bd78326df9c84691d8a5b",
+   "0x2f1423d27f9b20058d9d1843e342726fdf985eb4",
+   "0xe840b73e5287865eec17d250bfb1536704b43b21",
+   "0xb30a907084ac8a0d25dddab4e364827406fd09f0"
+  ],
+  "how": "eth-block"
+ },
+ "mStable V2": {
+  "addrs": [
+   "0x96d33bcf84dde326014248e2896f79bbb9c13d6d",
+   "0x3dd46846eed8d147841ae162c8425c08bd8e1b41",
+   "0xfec2adfa296fe189f53089fd5ccd8c28dd559cf2",
+   "0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2",
+   "0x7b4eb56e7cd4b454ba8ff71e4518426369a138a3",
+   "0x0ff1ceb93dbadfb13722058d60c4b8cd122b06ea",
+   "0x5aea6d35ed7b3b7ae78694b7da2ee880756af5c0"
+  ],
+  "how": "eth-block"
+ },
+ "Mt Pelerin": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Multichain": {
+  "addrs": [
+   "0xc342774492b54ce5f8ac662113ed702fc1b34972",
+   "0x2a038e100f8b85df21e4d44121bdbfe0c288a869",
+   "0x1eed63efba5f81d95bfe37d82c8e736b974f477b"
+  ],
+  "how": "all"
+ },
+ "NaraUSD": {
+  "addrs": [
+   "0xab05c0db9d26e96a9dcedcafca23341316f6fe6f",
+   "0x4ed90999f558fdc28606b7f7f9afc7044befb803",
+   "0x5c6263904ccfd3bcf1aaa6e7063ddd29743b3bb7",
+   "0x1aa23cdfc941f6b54251c72012a9bfa4bf5394d6",
+   "0x7433806912eae67919e66aea853d46fa0aef98a8",
+   "0x15e2579b1f0cbe973889a76826d3a2313b6509c6",
+   "0xda594876ba13bcc22065e03ffcfb24a22e5c6724"
+  ],
+  "how": "eth-block"
+ },
+ "Native Credit Pool": {
+  "addrs": [
+   "0xe3d41d19564922c9952f692c5dd0563030f5f2ef",
+   "0xba8db0caf781cac69b6acf6c848ac148264cc05d",
+   "0x74a4cd023e5afb88369e3f22b02440f2614a1367",
+   "0xba1cf8a63227b46575af823beb4d83d1025eff09",
+   "0x4df7557734b382eb542bea6c74786d398df4cc19",
+   "0x57b8f68ef57af2db70bc9aac891836661ca4cb51"
+  ],
+  "how": "eth-block"
+ },
+ "NEMO Trading": {
+  "addrs": [
+   "0x955256b31097ddf47a9e47a95adfdfb4460d8522",
+   "0xa422c3018c46ba90a14acd14f96cb60616f5c91b"
+  ],
+  "how": "eth-block"
+ },
+ "NFTX": {
+  "addrs": [
+   "0xbe86f647b167567525ccaafcd6f881f1ee558216",
+   "0xe77b89fec41a7b7dc74eb33602e82f0672fbb33c"
+  ],
+  "how": "eth-block"
+ },
+ "Niza": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Notional V2": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Nucleus": {
+  "addrs": [
+   "0x52e4d8989fa8b3e1c06696e7b16def5d7707a0d1",
+   "0xa8a3a5013104e093245164ea56588dbe10a3eb48",
+   "0x6c587402dc88ef187670f744dfb9d6a09ff7fd76",
+   "0x5d82ac302c64b229dc94f866fd10ec6ccf8d47a2",
+   "0x66e47e6957b85cf62564610b76dd206bb04d831a",
+   "0x9ed15383940cc380faef0a75edace507cc775f22",
+   "0x196ead472583bc1e9af7a05f860d9857e1bd3dcc",
+   "0x19e099b7aed41fa52718d780dda74678113c0b32",
+   "0x9faaea2cdd810b21594e54309dc847842ae301ce",
+   "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c",
+   "0x593ccca4c4bf58b7526a4c164ceef4003c6388db",
+   "0x64ab176c545bb85eca75d53c3ffcb361deafb855"
+  ],
+  "how": "eth-block"
+ },
+ "NUVA": {
+  "addrs": [
+   "0x50ae1e4a612a4623b747aeefb30afba82804e12c"
+  ],
+  "how": "eth-block"
+ },
+ "Odyssey Digital AM": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Odyssey Finance": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Okcoin": {
+  "addrs": [],
+  "how": "all"
+ },
+ "OpenGDP Shared Security": {
+  "addrs": [
+   "0x54e44dbb92dba848ace27f44c0cb4268981ef1cc",
+   "0x7a91498d5fa6705d35c9406b752d6d50f49c9510",
+   "0x399f22ae52a18382a67542b3de9bed52b7b9a4ad",
+   "0xc4b3d494c166ebbff9c716da4cec39b579795a0d",
+   "0xb308474350d75447ca8731b7ce87c9ee9da03b1c",
+   "0x1368ae21e85c9fa25f1ab579b6d3c6e20ad6db04",
+   "0x4a2b015ccb8658998692db9ed4522b8e846962ed",
+   "0x993e140ba530e8ffe1135ecef07ce7484f26caa3",
+   "0x93036971877e084dd303463628494c150572856d",
+   "0x58b5dc145ca2be84fe087614cfe36055be609bb3",
+   "0xdf922c74cc0dc394022ea002af5afaa32348670e",
+   "0x04962047b6a9e8c99c8da874d34c4285a87d541e"
+  ],
+  "how": "eth-block"
+ },
+ "Opyn Gamma": {
+  "addrs": [
+   "0xccf6629aeab734e621cc59ebb0297196774fdb9d",
+   "0x30ae5debc9edf60a23cd19494492b1ef37afa56d",
+   "0xa5ea18ac6865f315ff5dd9f1a7fb1d41a30a6779",
+   "0x5934807cc0654d46755ebd2848840b616256c6ef"
+  ],
+  "how": "eth-block"
+ },
+ "OrangeX": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Orderly Bridge": {
+  "addrs": [
+   "0x816f722424b49cf1275cc86da9840fbd5a6167e9",
+   "0xe80f2396a266e898fbbd251b89cfe65b3e41fd18"
+  ],
+  "how": "all"
+ },
+ "Origin ARM": {
+  "addrs": [
+   "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3",
+   "0x85b78aca6deae198fbf201c82daf6ca21942acc6",
+   "0x6bac785889a4127db0e0cefee88e0a9f1aaf3cc7",
+   "0xfb0a3cf9b019bfd8827443d131b235b3e0fc58d2",
+   "0xceda2d856238aa0d12f6329de20b9115f07c366d",
+   "0x68025a4615407993a680102b08a23a61d11c657c",
+   "0x9e3a7026e5767f2d7ff5e83b0ed011005f45a170",
+   "0x2f872623d1e1af5835b08b0e49aad2d81d649d30"
+  ],
+  "how": "eth-block"
+ },
+ "Origin Dollar": {
+  "addrs": [
+   "0x63898b3b6ef3d39332082178656e9862bee45c57",
+   "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+   "0xe75d77b1865ae93c7eaa3040b038d7aa7bc02f70",
+   "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86"
+  ],
+  "how": "eth-block"
+ },
+ "Ourbit": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Outcome Finance": {
+  "addrs": [
+   "0x0b8de441b26e36f461b2748919ed71f50593a67b",
+   "0x60f3f5dde708d097b7f092efab2e085ac0a82f42",
+   "0x31c893843685f1255a26502eab5379a3518aa5a9",
+   "0x9504b4ab8cd743b06074757d3b1be3a3af9cea10",
+   "0x439a990f83250fe2e5e6b8059f540af1da1ba04d",
+   "0xad8fd1f418fb860a383c9d4647880af7f043ef39",
+   "0x9a077d4fcf7b26a0514baa4cff0b481e9c35ce87",
+   "0xddfc7e3b4531158acf4c7a5d2c3cb0ee81d018a5",
+   "0x3e665d15425faee14eef53b9caaa0762b243911a",
+   "0x62410e96a2ceb4d66824346e3264d1d9107a0abe",
+   "0x5fd7fff20ee851cd7bee72fb3c6d324e4c104c9f",
+   "0x4fba8542080ffb82a12e3b596125b1b02d213424"
+  ],
+  "how": "eth-block"
+ },
+ "P2PB2B": {
+  "addrs": [],
+  "how": "all"
+ },
+ "PancakeSwap AMM": {
+  "addrs": [
+   "0x1097053fd2ea711dad45caccc45eff7548fcb362",
+   "0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e",
+   "0x45c54210128a065de780c4b0df3d16664f7f859e",
+   "0x5692db8177a81a6c6afc8084c2976c9933ec1bab",
+   "0x73feaa1ee314f8c655e354234017be2193c9e24e",
+   "0xd03d8d566183f0086d8d09a84e1e30b58dd5619d",
+   "0xfff5812c35ec100df51d5c9842e8cc3fe60f9ad7",
+   "0xe2aecf96d23575b11624d0891c0828e767c8cb8b",
+   "0x927158be21fe3d4da7e96931bb27fd5059a8cbc2",
+   "0x29115bf4863648bb01a9cec43d8306ec51800642",
+   "0x4e742608c39eafd8525b03d39121ea00ccf3c727",
+   "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+  ],
+  "how": "eth-block"
+ },
+ "Panoptic V2": {
+  "addrs": [
+   "0x0000000000000adc9a108591e718f2aee963a2a7",
+   "0x0000000000000c51d0f8cf4bd9ade7191372a625"
+  ],
+  "how": "eth-block"
+ },
+ "Penpie": {
+  "addrs": [
+   "0x16296859c15289731521f199f0a5f762df6347d0",
+   "0x4f30a9d41b80ecc5b94306ab4364951ae3170210",
+   "0x83e817e1574e2201a005ec0f7e700ed5606f555e",
+   "0x808507121b80c02388fad14726482e061b8da827",
+   "0x6e799758cee75dae3d84e09d40dc416ecf713652",
+   "0x4405c0b330db66dffc40c8bcc616e447505af0f8",
+   "0x7dedbce5a2e31e4c75f87fea60bf796c17718715",
+   "0x0776c06907ce6ff3d9dbf84ba9b3422d7225942d",
+   "0x3209e9412cca80b18338f2a56ada59c484c39644",
+   "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf",
+   "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+   "0x6db96bbeb081d2a85e0954c252f2c1dc108b3f81"
+  ],
+  "how": "eth-block"
+ },
+ "Pickle": {
+  "addrs": [
+   "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+   "0xed4064f376cb8d68f770fb1ff088a3d0f3ff5c4d",
+   "0xbbcf169ee191a1ba7371f30a1c344bfc498b29cf",
+   "0xfaa267c3bb25a82cfdb604136a29895d30fd3fd8",
+   "0xdc98556ce24f007a5ef6dc1ce96322d65832a819"
+  ],
+  "how": "all"
+ },
+ "PinkSale": {
+  "addrs": [
+   "0x33d4cc8716beb13f814f538ad3b2de3b036f5e2a",
+   "0x71b5759d73262fbb223956913ecf4ecc51057641",
+   "0xd626661e2d4f93a1c4122d386fa9ea0f62b5ab0b",
+   "0x7ee058420e5937496f5a2096f04caa7721cf70cc",
+   "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+   "0x602ba546a7b06e0fc7f58fd27eb6996ecc824689",
+   "0x17e65e6b9b166fb8e7c59432f0db126711246bc0",
+   "0xee6cacddd3a9370d87db581ee6728226883578e5",
+   "0x6d163b653010740bfb41bed4bee23f94b3285cba",
+   "0xb0228eb6c0b49f8265e6e161c3a987eed7471f42",
+   "0x9888d3d9fbc12487259d1c82665b2ffd009936c6",
+   "0x49a9f9a2271d8c5da44c57e7102aca79c222f4a9"
+  ],
+  "how": "eth-block"
+ },
+ "Pionex": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Pirex": {
+  "addrs": [
+   "0x35a398425d9f1029021a92bc3d2557d42c8588d7",
+   "0x9a592b4539e22eeb8b2a3df679d572c7712ef999",
+   "0x0eac365e4d7de0e293078bd771ba7d0ba9a4c892",
+   "0x4277f8f2c384827b5273592ff7cebd9f2c1ac258",
+   "0xc55126051b22ebb829d00368f4b12bde432de5da",
+   "0x10978db3885ba79bf1bc823e108085fb88e6f02f"
+  ],
+  "how": "eth-block"
+ },
+ "pNetwork": {
+  "addrs": [],
+  "how": "all"
+ },
+ "PoolTogether V3": {
+  "addrs": [
+   "0x887e17d791dcb44bfdda3023d26f7a04ca9c7ef4",
+   "0xee06abe9e2af61cabcb13170e01266af2defa946"
+  ],
+  "how": "all"
+ },
+ "PoWH3D": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Presto": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Privacy Pools": {
+  "addrs": [
+   "0x6818809eefce719e480a7526d76bd3e561526b46",
+   "0x44192215fed782896be2ce24e0bfbf0bf825d15e"
+  ],
+  "how": "eth-block"
+ },
+ "ProBit Global": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Punks Terminal": {
+  "addrs": [
+   "0x000000000000a6fa31f5fc51c1640aac76866750"
+  ],
+  "how": "eth-block"
+ },
+ "Rainbow Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Rari Capital": {
+  "addrs": [
+   "0x7c332fea58056d1ef6ab2b2016ce4900773dc399",
+   "0x4a785fa6fcd2e0845a24847beb7bddd26f996d4d",
+   "0x835482fe0532f169024d5e9410199369aad5c77e",
+   "0x1fa69a416bcf8572577d3949b742fbb0a9cd98c7",
+   "0x18a797c7c70c1bf22fdee1c09062aba709cacf04",
+   "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+   "0x35ddefa2a30474e64314aaa7370abe14c042c6e8",
+   "0xc7d021bd813f3b4bb801a4361fbcf3703ed61716"
+  ],
+  "how": "eth-block"
+ },
+ "Re7 Labs": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Reflexer": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Reservoir Protocol": {
+  "addrs": [
+   "0x99a95a9e38e927486fc878f41ff8b118eb632b10",
+   "0x99e8903bdefb9e44cd6a24b7f6f97ddd071549bc",
+   "0xb82749f316cb9c06f38587abecf3eb1bc842cc93",
+   "0xc5dea68cce26c014bec516cda70c107c534a73c4",
+   "0x65078cfef8f7c07441661393eab6cb93b31db0dd",
+   "0x31eae643b679a84b37e3d0b4bd4f5da90fb04a61",
+   "0x003ca23fd5f0ca87d01f6ec6cd14a8ae60c2b97d",
+   "0x4809010926aec940b550d34a46a52739f996d75d",
+   "0x289c204b35859bfb924b9c0759a4fe80f610671c",
+   "0x3063c5907faa10c01b242181aa689beb23d2bd65",
+   "0xeae91b4c84e1edfa5d78dcae40962c7655a549b9",
+   "0x813b0857e016b7ae5fb57f464dfad8ee7b74232e"
+  ],
+  "how": "all"
+ },
+ "Resolv USR": {
+  "addrs": [
+   "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+   "0x4956b52ae2ff65d74ca2d61207523288e4528f96",
+   "0xfe4bce4b3949c35fb17691d8b03c3cadbe2e5e23",
+   "0x259338656198ec7a76c729514d3cb45dfbf768a1"
+  ],
+  "how": "eth-block"
+ },
+ "Revert Lend": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Reya Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Rezerve Lending": {
+  "addrs": [
+   "0xc42d337861878baa4dc820d9e6b6c667c2b57e8a",
+   "0xbafc1a885e25c6f594e06f12edaeb46858547724",
+   "0x3036155a3ed3e7f6fff1e96e88f1fe51b6d2f3ad"
+  ],
+  "how": "eth-block"
+ },
+ "Ribbon": {
+  "addrs": [
+   "0xdd9d1b7deab1a843a1b584d2ca5903b8a4735def",
+   "0x0fabaf48bbf864a3947bdd0ba9d764791a60467a",
+   "0x25751853eab4d0eb3652b5eb6ecb102a2789644b",
+   "0x8b5876f5b0bf64056a89aa7e97511644758c3e8c",
+   "0x65a833afdc250d9d38f8cd9bc2b1e3132db13b2f",
+   "0x16772a7f4a3ca291c21b8ace76f9332ddffbb5ef",
+   "0x8fe74471f198e426e96be65f40eed1f8ba96e54f",
+   "0xcc323557c71c0d1d20a1861dc69c06c5f3cc9624",
+   "0xe63151a0ed4e5fafdc951d877102cf0977abd365",
+   "0x53773e034d9784153471813dacaff53dbbb78e8c",
+   "0xc0cf10dd710aefb209d9dc67bc746510ffd98a53",
+   "0xa1da0580fa96129e753d736a5901c31df5ec5edf"
+  ],
+  "how": "eth-block"
+ },
+ "Ribbon Earn": {
+  "addrs": [
+   "0x84c2b16fa6877a8ff4f3271db7ea837233dfd6f0",
+   "0xce5513474e077f5336cf1b33c1347fdd8d48ae8c"
+  ],
+  "how": "eth-block"
+ },
+ "Ronin Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Rook": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Royco V2": {
+  "addrs": [
+   "0x7cc6fb28ec7b5e7afc3cb3986141797ffc27253c",
+   "0xaaaaaaaaae46ca12bf3810df8c13c5e8a4400812",
+   "0x568c9709daa2f7b7cc66abc3e41da0f0a339551a",
+   "0x63da1229be88fb4d20210147954a1a3e05f2581b",
+   "0xaf55a0c251690d9322b5f94b7e50ee895750262c",
+   "0xe72b67389e6c8919961b4eb2b9563b9359ba30b6",
+   "0xcd9f5907f92818bc06c9ad70217f089e190d2a32",
+   "0x41ce72e04d349eb957bdc373baa9c69207032c56"
+  ],
+  "how": "eth-block"
+ },
+ "Rysk V12": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Sablier Lockup": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Saddle Finance": {
+  "addrs": [
+   "0xc5ad17b98d7fe73b6dd3b0df5b3040457e68c045",
+   "0xab94a2c0d8f044aa439a5654f06b5797928396cf",
+   "0x7003102c75587e8d29c56124060463ef319407d0",
+   "0xba684b8e05415726ee1ffe197eaf1b82e4d44418",
+   "0x0e510c9b20a5d136e75f7fd2a5f344bd98f9d875",
+   "0x3a0c2a793a8db779e0293699d0ce77c77617fe0f",
+   "0x29fd31d37ab8d27f11eab68f96424bf64231ffce"
+  ],
+  "how": "all"
+ },
+ "Saffron Vaults": {
+  "addrs": [
+   "0x7fe802b891734db681b7353bff9e6c85ce0ab200",
+   "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+   "0xd4e8582e36af0e0d5c1bcd8303984870b086d3d2",
+   "0x03a520b32c04bf3beef7beb72e919cf822ed34f1",
+   "0x9b99ffb478894f165b0d849614d8f440469bc01a",
+   "0x7b8a01b39d58278b5de7e48c8449c9f4f5170613",
+   "0x8f6df209ea8614ee44abd4d48d007e472dec8ede",
+   "0x7197e214c0b767cfb76fb734ab638e2c192f4e53",
+   "0xb2a0de6648cf9dac0e98d74d40e3e401c46c244b",
+   "0xae8fbe656a77519a7490054274910129c9244fa3",
+   "0x315e413a11ab0df498ef83873012430ca36638ae",
+   "0xb24b143ad6bb5be9559ccc75f34a2261b7456904"
+  ],
+  "how": "eth-block"
+ },
+ "SATO": {
+  "addrs": [
+   "0x0000f07d2b5f1ddf3244b8780f972f306efd2888"
+  ],
+  "how": "eth-block"
+ },
+ "Seamless V2": {
+  "addrs": [
+   "0x5c37eb148d4a261acd101e2b997a0f163fb3e351",
+   "0x38ba21c6bf31df1b1798fced07b4e9b07c5ec3a8"
+  ],
+  "how": "eth-block"
+ },
+ "Set Protocol": {
+  "addrs": [
+   "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+   "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+   "0x5b67871c3a857de81a1ca0f9f7945e5670d986dc",
+   "0xa4c8d221d8bb851f83aadd0223a8900a6921a349"
+  ],
+  "how": "eth-block"
+ },
+ "Shape Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "SharpByte Capital": {
+  "addrs": [],
+  "how": "all"
+ },
+ "ShibaSwap V1": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Sierra Protocol": {
+  "addrs": [
+   "0x2071d1689d85de2b49004d257f99802a25bf4fe7",
+   "0xf1f925d1f6b36bc9344d6afe39dc1637b778de41",
+   "0xbc7c0b1b9c61f35068561077fbaa163707128597",
+   "0xe1b1252652a2ff0cc3a4214ee73d9fed1fea5b4f",
+   "0xbc8573433c06746f495942c0b30e2dc9a11d70bd",
+   "0x09ca60ca323a6313ae144778c3ebdfccfbb5e5d2",
+   "0x3458f1cab06cdf7c9323d8fffb04093f9d8380b6",
+   "0x0e57dfcf4a53cd1a19256bd2af8bc28a9ac7ebe8",
+   "0x6bcb49378fad952f0fd6bbdc2caff9cc76d5d408",
+   "0xd1f0cc4f765035903bb1fd43095853714aa4c290",
+   "0xa4433b4fd89c9358f4013212de04bcb8bce68213"
+  ],
+  "how": "all"
+ },
+ "Silo V2": {
+  "addrs": [
+   "0x22a3cf6149bfa611bafc89fd721918ec3cf7b581",
+   "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
+   "0x6543ee07cf5dd7ad17aeecf22ba75860ef3bbaaa",
+   "0xccddbbbd1e36a6eda3a84cdcee2040a86225ba71",
+   "0xed9777944a2fb32504a410d23f246463b3f40908",
+   "0x6e8c150224d6e9b646889b96eff6f7fd742e2c22",
+   "0x0ab02dd08c1555d1a20c76a6ea30e3e36f3e06d4",
+   "0x75c550776c191a8f6ae22edc742ad2788723b66e",
+   "0xc6ee9a58d5270e53fd1361946899b6d0553142b4",
+   "0x501ee3d6cb84004c7970ca24f3dac07d61a25e4d",
+   "0x1a089424f52502139888fa4c0ed2fa088e9e1d51",
+   "0x1c1791911483e98875d162355fec47f37613f0fb"
+  ],
+  "how": "eth-block"
+ },
+ "SingularX": {
+  "addrs": [],
+  "how": "all"
+ },
+ "SMARDEX USDN": {
+  "addrs": [
+   "0x656cb8c6d154aad29d8771384089be5b5141f01a",
+   "0xaebcc85a5594e687f6b302405e6e92d616826e03"
+  ],
+  "how": "all"
+ },
+ "Solv Strategies": {
+  "addrs": [],
+  "how": "all"
+ },
+ "SolvBTC": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Sophon Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Sorare Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Stafi": {
+  "addrs": [
+   "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593"
+  ],
+  "how": "eth-block"
+ },
+ "Stake DAO Curator": {
+  "addrs": [],
+  "how": "all"
+ },
+ "StakeStone Berachain Vault": {
+  "addrs": [
+   "0x8f88ae3798e8ff3d0e0de7465a0863c9bbb577f0",
+   "0xf401cc9f467c7046796d9a8b44b0c1348b4deec7"
+  ],
+  "how": "eth-block"
+ },
+ "Stakingverse": {
+  "addrs": [
+   "0x9f49a95b0c3c9e2a6c77a16c177928294c0f6f04",
+   "0x8a93a876912c9f03f88bc9114847cf5b63c89f56"
+  ],
+  "how": "eth-block"
+ },
+ "Stargate V1": {
+  "addrs": [
+   "0x8731d54e9d02c286767d56ac03e8037c07e01e98",
+   "0x72e2f4830b9e45d52f80ac08cb2bec0fef72ed9c",
+   "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+   "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+   "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8",
+   "0x3052a0f6ab15b4ae1df39962d5ddefaca86dab47",
+   "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd",
+   "0x53bf833a5d6c4dda888f69c22c88c9f356a41614",
+   "0x82cbecf39bee528b5476fe6d1550af59a9db6fc0",
+   "0xb69c8cbcd90a39d8d3d3ccf0a3e968511c3856a0",
+   "0x224d8fd7ab6ad4c6eb4611ce56ef35dec2277f03",
+   "0x45f1a95a4d3f3836523f5c83673c797f4d4d263b"
+  ],
+  "how": "eth-block"
+ },
+ "Steer Protocol": {
+  "addrs": [
+   "0xd5532a58e4abb6485ff4e7bcf5bed278e32a516e",
+   "0x806c2240793b3738000fcb62c66bf462764b903f",
+   "0x37cff062d52dd6e9e39df619ccd30c037a36bb83",
+   "0x1afd31627170607657224ed4ae701470209c4b2e",
+   "0x5d8249e3f5f702e1fd720167b40424fc2dadcd1e",
+   "0x16ba7102271dc83fff2f709691c2b601dad7668e",
+   "0x71be4708c86b8afd6aa47929ce073e400b5b7747",
+   "0x83ee3e4bcac37f69c133f908e5a704ea9b7d74eb",
+   "0xdca3251ebe8f85458e8d95813bcb816460e4bef1",
+   "0xe240b9a2936f6fb8860219bc059349e50f03492e",
+   "0xcebf1a54a9ce703fc80967760b5a6cbdb4111099",
+   "0xcb77e4c30d92c8b959811e99213625c7b9490b96"
+  ],
+  "how": "all"
+ },
+ "STONEUSD": {
+  "addrs": [
+   "0x6a6e3a4396993a4ec98a6f4a654cc0819538721e",
+   "0x8b4e28607bdcacbf937f81f29e3dafe7bc1d7c0b",
+   "0x095957ceb9f317ac1328f0ab3123622401766d71"
+  ],
+  "how": "eth-block"
+ },
+ "STRATO Bridge": {
+  "addrs": [
+   "0x4d9e9c39180a75091b9c35bbb9064d67c7fdde5a",
+   "0x937efa7e3a77e20bbdbd7c0d32b6514f368c1010",
+   "0xcdc93d30182125e05eec985b631c7c61b3f63ff0",
+   "0x2c59ef92d08efde71fe1a1cb5b45f4f6d48fcc94",
+   "0x2ca3e170e6714282da77815f7864b17f612f5f83",
+   "0x4c93b9fbf7fd1777ccbcbc538b1d0a8b58fb1ad6"
+  ],
+  "how": "all"
+ },
+ "stUSDT": {
+  "addrs": [
+   "0x25ec98773d7b4ced4cafab96a2a1c0945f145e10"
+  ],
+  "how": "eth-block"
+ },
+ "Summer.fi Pro": {
+  "addrs": [],
+  "how": "eth-block"
+ },
+ "SunX Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Superfluid": {
+  "addrs": [
+   "0x441bb79f2da0daf457bad3d401edb68535fb3faa",
+   "0xb6e45adfa0c7d70886bbfc990790d64620f1bae8",
+   "0xc0fbc4967259786c743361a5885ef49380473dcf",
+   "0x50e39b354c90146de80a577e13129bb0ba36ee45",
+   "0x791b3a48d2dca38871c9900783653b15acae0aea",
+   "0x6a0491132af4d0925f857a5000bb21e5c5c195ea",
+   "0x8f00fc7756c9e901963b723ad1821e5eb8c69c02",
+   "0x10daf0df6ec9bef452f3073a56f6adb4b1809222",
+   "0xa2eac044fe1e004caac4e8c4164a39f4cc522b6f",
+   "0x89abea6823cfd903fb503a1db17a7ce890a3232e",
+   "0xfd989d6e3244cfb5470597e7b93e4430cc29efe9",
+   "0x867e84eb2789c95eef6d6991cc4bc6b48e1519b8"
+  ],
+  "how": "eth-block"
+ },
+ "Superform": {
+  "addrs": [
+   "0x4a9e282635567cc4d3c6a24e16c2335f10dee9b8",
+   "0xaeeafb1259f01f363d09d7027ad80a9d442de762",
+   "0x39a1f8e5d2422ccc5e08c5b4019ab70147f5cc95",
+   "0x4ebfc11ad2dd1c2a450ba194558d797ee5d305a6",
+   "0x54fa13a38a690bc69584a7ac8b834c1770959974",
+   "0x83706a2ec580fe1fdb84744366fa02fb8e25d29d",
+   "0xfbadc4f18ddc7ebdbc920d3f9b0ca7a1296788d1",
+   "0x7ef4d0168b12b168f14b67c708bc16f7e8bf3dec",
+   "0x265329c8f15671d7ca501710e3bd0e6cb257948f",
+   "0xd3a17928245064b6df5095a76e277fe441d538a4",
+   "0xabc07bf91469c5450d6941dd0770e6e6761b90d6",
+   "0x6f28cafe12bd97e474a52bcbfea6f2c18ae0f53d"
+  ],
+  "how": "eth-block"
+ },
+ "Swaap Maker V2": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Switcheo Finance": {
+  "addrs": [],
+  "how": "all"
+ },
+ "SX Rollup Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Symbiosis": {
+  "addrs": [
+   "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+   "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+   "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+   "0xdac17f958d2ee523a2206206994597c13d831ec7",
+   "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+   "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+   "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+   "0x4d224452801aced8b2f0aebe155379bb5d594381",
+   "0x70b7f7044d2ca8e2f1e999b90ef16d7cb7a0cda1",
+   "0xb8f275fbf7a959f4bce59999a2ef122a099e81a8",
+   "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+   "0xe9e7cea3dedca5984780bafc599bd69add087d56"
+  ],
+  "how": "all"
+ },
+ "Synapse Cross Chain Bridge": {
+  "addrs": [
+   "0x1116898dda4015ed8ddefb84b6e8bc24528af2d8",
+   "0x2796317b0ff8538f253012862c06787adfb8ceb6",
+   "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+   "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+   "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+   "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+   "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+   "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+   "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+   "0x0642026e7f0b6ccac5925b4e7fa61384250e1701",
+   "0x02b5453d92b730f29a86a0d5ef6e930c4cf8860b",
+   "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31"
+  ],
+  "how": "eth-block"
+ },
+ "Syntropia": {
+  "addrs": [
+   "0x1b2cb79a4564206f53ba80b4d780f251b4ae6765",
+   "0xd17049ed25d8f99fe3bfd10cef2263da9995cfd8",
+   "0x8df3deba711ae4a9af16cbca5e4fbb1402f036d5"
+  ],
+  "how": "eth-block"
+ },
+ "Taiko Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Tangent Finance": {
+  "addrs": [
+   "0x214c8a1023b30032a2eded109146658c6d6f2781"
+  ],
+  "how": "eth-block"
+ },
+ "TAU Labs": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Templar Protocol": {
+  "addrs": [
+   "0xce6170ea245dc8d1f275a710a062b70f125f0110",
+   "0xad552a648c74d49e10027ab8a618a3ad4901c5be"
+  ],
+  "how": "all"
+ },
+ "TermFinance Lend": {
+  "addrs": [],
+  "how": "all"
+ },
+ "The Idols": {
+  "addrs": [
+   "0x439cac149b935ae1d726569800972e1669d17094",
+   "0x9416ba76e88d873050a06e5956a3ebf10386b863",
+   "0x0dd5a35fe4cd65fe7928c7b923902b43d6ea29e7"
+  ],
+  "how": "all"
+ },
+ "Theo Network thBill": {
+  "addrs": [
+   "0xaecca546bafb16735b273702632c8cbb83509d8f",
+   "0x8397ac82204352c8bafcbaa22e9674a4d638aee3",
+   "0x50293dd8889b931eb3441d2664dce8396640b419",
+   "0x54a4fc78431f9201824643e99bec891bb7462a1d",
+   "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+   "0x8c106eedad96553e64287a5a6839c3cc78afa3d0",
+   "0xf3557ad5e984211ac8a0874a670344f2c3376471",
+   "0xbeef003c68896c7d2c3c60d363e8d71a49ab2bf9",
+   "0xc26af85ede9cc25d449bcebef866bb85afd5d346",
+   "0x050ce30b927da55177a4914ec73480238bad56f0",
+   "0x35a73bacb179d3740395a3cecc87ff2e581d6042"
+  ],
+  "how": "eth-block"
+ },
+ "THORChain DEX": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Threshold thUSD": {
+  "addrs": [
+   "0xf5e4ffeb7d2183b61753aa4074d72e51873c1d0a",
+   "0x1f490764473eb1013461d6079f827db95d8b4dc5",
+   "0xe922b5591da479a559b25261bd6dc8f89ca1a29d"
+  ],
+  "how": "eth-block"
+ },
+ "TokenStore": {
+  "addrs": [],
+  "how": "all"
+ },
+ "TokenWorks": {
+  "addrs": [
+   "0xa1a196b5be89be04a2c1dc71643689ce013c22e5",
+   "0x1244eae9fa2c064453b5f605d708c0a0bfba4838",
+   "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+   "0xc50673edb3a7b94e8cad8a7d4e0cd68864e33edf"
+  ],
+  "how": "eth-block"
+ },
+ "Twyne": {
+  "addrs": [
+   "0xb5eb1d005e389bef38161691e2083b4d86ff647a",
+   "0xa1517cce0be75700a8838ea1cee0dc383cd3a332"
+  ],
+  "how": "eth-block"
+ },
+ "UNCX Network V3": {
+  "addrs": [
+   "0x231278edd38b00b07fbd52120cef685b9baebcc1",
+   "0x7f5c649856f900d15c83741f45ae46f5c6858234",
+   "0xfd235968e65b0990584585763f837a5b5330e6de",
+   "0x7fccf17620ce18c039eb3485628e5c50d2ae1cec",
+   "0xfa104eb3925a27e6263e05acc88f2e983a890637",
+   "0xcb8b00d4018ad6031e28a44bf74616014bfb62ec",
+   "0x6b5360b419e0851b4b81644e0f63c1a9778f2506",
+   "0x2a91f1088bca423ee17f5590fcc36f372458cea1",
+   "0x0d29598ec01fa03665feead91d4fb423f393886c",
+   "0xf1f7f21e2ea80ab110d0f95faa64655688341990",
+   "0xfe88dab083964c56429baa01f37ec2265abf1557",
+   "0xac03f882a41553fb2d519b35874b0a551977b9d9"
+  ],
+  "how": "eth-block"
+ },
+ "UNCX Network V4": {
+  "addrs": [
+   "0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e",
+   "0x147aeca171a79466fe9e2c03f21b45155ff403f8",
+   "0x30529ac67d5ac5f33a4e7fe533149a567451f023",
+   "0x6a76da1eb2cbe8b0d52cfe122c4b7f0ca5a940ef",
+   "0x1ec2ebf4f37e7363fdfe3551602425af0b3ceef9",
+   "0x5ea1bd7974c8a611cbab0bdcafcb1d9cc9b3ba5a",
+   "0x7a4a5c919ae2541aed11041a1aeee68f1287f95b",
+   "0x62d61d5695013a5aa29a628b83d91e240984b613",
+   "0xd8c5bb7137021d93e70b7814c697bed303573b21",
+   "0xa55d5ce984e9e933732cdf51095af8f3fb374ac8",
+   "0x1ec811ad6039e33b86458cdb267667af083261ed",
+   "0x5cff5c8e4ab3ef911dbcfc6698663f5f471899d1"
+  ],
+  "how": "eth-block"
+ },
+ "Unichain Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Uniswap V1": {
+  "addrs": [
+   "0xc0a47dfe034b400b47bdad5fecda2621de6c4d95"
+  ],
+  "how": "eth-block"
+ },
+ "Unitus": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Universal Bridge": {
+  "addrs": [],
+  "how": "eth-block"
+ },
+ "Universe XYZ": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Unslashed": {
+  "addrs": [
+   "0x86fb84e92c1eedc245987d28a42e123202bd6701"
+  ],
+  "how": "eth-block"
+ },
+ "Usual ETH0": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Vault Street": {
+  "addrs": [
+   "0x7ea76108975ec0998b9bc2db04b4eca986400dd7",
+   "0xf05f7ab9b05d9dcf99b8e9bbae8e5e4a3201d004"
+  ],
+  "how": "eth-block"
+ },
+ "Veno Finance": {
+  "addrs": [
+   "0xb4be51216f4926ab09ddf4e64bc20f499fd6ca95",
+   "0x21179329c1dcfd36ffe0862cca2c7e85538cca07",
+   "0xdb7d0a1ec37de1de924f8e8adac6ed338d4404e9",
+   "0x28ff2e4dd1b58efeb0fc138602a28d5ae81e44e2",
+   "0x76bf2d1e6dfda645c0c17440b17eccc181dfc351",
+   "0xfa59075dfce274e028b58bddfcc3d709960f594a",
+   "0x271602a97027ee1dd03b1e6e5db153eb659a80b1",
+   "0x5b91e29ae5a71d9052620acb813d5ac25ec7a4a2",
+   "0x9fae23a2700feecd5b93e43fdbc03c76aa7c08a6",
+   "0xac974ee7fc5d083112c809ccb3fce4a4f385750d",
+   "0xe7895ed01a1a6aacf1c2e955af14e7cf612e7f9d"
+  ],
+  "how": "eth-block"
+ },
+ "Venus Core Pool": {
+  "addrs": [],
+  "how": "all"
+ },
+ "vfat.io": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Wan Bridge": {
+  "addrs": [
+   "0xe85b0d89cbc670733d6a40a9450d8788be13da47",
+   "0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e",
+   "0xc3711bdbe7e3063bf6c22e7fed42f782ac82baee",
+   "0x74e121a34a66d54c33f3291f2cdf26b1cd037c3a",
+   "0xde1ae3c465354f01189150f3836c7c15a1d6671d",
+   "0x6372aec6263aa93eacedc994d38aa9117b6b95b5",
+   "0x2216072a246a84f7b9ce0f1415dd239c9bf201ab",
+   "0xf7ba155556e2cd4dfe3fe26e506a14d2f4b97613",
+   "0xccffe9d337f3c1b16bd271d109e691246fd69ee3",
+   "0xc6ae1db6c66d909f7bfeeeb24f9adb8620bf9dbf",
+   "0x592de30bebff484b5a43a6e8e3ec1a814902e0b6",
+   "0x201e5de97dfc46aace142b2009332c524c9d8d82"
+  ],
+  "how": "all"
+ },
+ "Webot": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Wildcat Protocol": {
+  "addrs": [
+   "0xfeb516d9d946dd487a9346f6fee11f40c6945ee4",
+   "0xdb2e0de97d6d96aa56754635704a4273e0f348ae",
+   "0xc003f20f2642c76b81e5e1620c6d8cdee826408f",
+   "0x262dd546703760adda0c06279508e04bd1f60dee"
+  ],
+  "how": "eth-block"
+ },
+ "WOO X": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Y10K Capital": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Yamato Protocol": {
+  "addrs": [],
+  "how": "all"
+ },
+ "YieldFi": {
+  "addrs": [
+   "0x19ebd191f7a24ece672ba13a302212b5ef7f35cb",
+   "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+   "0x4e559dbccbe87de66c6a9f3f25231096f24c2e28",
+   "0x2e3c5e514eef46727de1fe44618027a9b70d92fc",
+   "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+   "0x168bc4db5dcbeca279983324d3082c47e47569e7",
+   "0x704a58f888f18506c9fc199e53ae220b5fdcaed8",
+   "0x8464f6ecae1ea58ec816c13f964030eab8ec123a",
+   "0x1f52edf2815bfa625890b61d6bf43ddc24671fe8",
+   "0x3073112c2c4800b89764973d5790ccc7fba5c9f9",
+   "0x8c93a6752bfe29fda26eba8df4390c642e6a7f90",
+   "0xa01200b2e74de6489cf56864e3d76bbc06fc6c43"
+  ],
+  "how": "all"
+ },
+ "YO Protocol": {
+  "addrs": [
+   "0x0000000f2eb9f69274678c76222b35eec7588a65",
+   "0x87428d886f43068a44d7bdeef106d3c42e1d6f23",
+   "0x5dd8bfa6c5c68d05d25ef6143e05c11e26c4cdb7",
+   "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
+   "0xbcbc8cb4d1e8ed048a6276a5e94a3e952660bcbc",
+   "0x50c749ae210d3977adc824ae11f3c7fd10c871e9",
+   "0x586675a3a46b008d8408933cf42d8ff6c9cc61a1"
+  ],
+  "how": "eth-block"
+ },
+ "Yuzu Money": {
+  "addrs": [
+   "0x224e90591a2d63fb66e677d0561ea4a6ad1f098d",
+   "0xc9854f2af89d4d26837004d1e154bd3c3c1009b1",
+   "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+   "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+   "0xebfc8c2fe73c431ef2a371aea9132110aab50dca",
+   "0xc9ea90692757831d98ac629f2a0140e02b80a7da"
+  ],
+  "how": "all"
+ },
+ "ZEROBASE CeDeFi": {
+  "addrs": [
+   "0x9ef52d8953d184840f2c69096b7b3a7da7093685",
+   "0xcc5df5c68d8c991035b6a437d4e00a99875228e4",
+   "0xc3e9006559cb209a987e99257986aa5ce324f829"
+  ],
+  "how": "eth-block"
+ },
+ "ZeroLend Vaults": {
+  "addrs": [
+   "0xc42d337861878baa4dc820d9e6b6c667c2b57e8a",
+   "0x1ab9e92cfde84f38868753d30ffc43f812b803c5",
+   "0xc364fd9637fe562a2d5a1cbc7d1ab7f32be900ef",
+   "0x54061e18cd88d2de9af3d3d7fdf05472253b29e0",
+   "0x4e88e72bd81c7ea394cb410296d99987c3a242fe",
+   "0x1f906603a027e686b43fab7f395c11228ebe8ff4",
+   "0x14efcc1ae56e2ff75204ef2fb0de43378d0beada",
+   "0x085f80df643307e04f23281f6fdbfaa13865e852",
+   "0x9ac2f0a564b7396a8692e1558d23a12d5a2abb1f",
+   "0x28c96c7028451454729750171bd3bb95d7261b5a",
+   "0x112b77a77753b092306b1c04bd70215fed4e00a1",
+   "0x1b33d24c4c78a61da80cfa2d0db72ca0851d5fb1"
+  ],
+  "how": "eth-block"
+ },
+ "Zircuit": {
+  "addrs": [
+   "0x17bfafa932d2e23bd9b909fd5b4d2e2a27043fb1",
+   "0x386b76d9ca5f5fb150b6bfb35cf5379b22b26dd8",
+   "0xfd418e42783382e86ae91e445406600ba144d162"
+  ],
+  "how": "eth-block"
+ },
+ "zkLink Nova": {
+  "addrs": [
+   "0x5fd9f73286b7e8683bab45019c94553b93e015cf",
+   "0xad16edcf7deb7e90096a259c81269d811544b6b6",
+   "0x8a053350ca5f9352a16ded26ab333e2d251dad7c",
+   "0xe46a5e19b19711332e33f33c2db3ea143e86bc10",
+   "0x32bd822d615a3658a68b6fdd30c2fcb2c996d678",
+   "0x49446a0874197839d15395b908328a74ccc96bc0",
+   "0xc6572019548dfeba782ba5a2093c836626c7789a",
+   "0x9dc7e196092dac94f0c76cfb020b60fa75b97c5b",
+   "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+   "0xff73a1a1d27951a005eb23276dc99cb7f8d5420a",
+   "0xfb0ad0b3c2605a7ca33d6badd0c685e11b8f5585",
+   "0x3082cc23568ea640225c2467653db90e9250aaa0"
+  ],
+  "how": "eth-block"
+ },
+ "Zoomex": {
+  "addrs": [],
+  "how": "all"
+ },
+ "Zora Bridge": {
+  "addrs": [],
+  "how": "all"
+ },
+ "ZTLN-P": {
+  "addrs": [
+   "0xfed3d6557dc46a1b25d0a6f666513cb33835864b"
+  ],
+  "how": "eth-block"
+ }
+}

@@ -1,0 +1,140 @@
+"""Orchestration: run every detector over a file, directory or cloned repo."""
+from __future__ import annotations
+
+import os
+import subprocess
+import tempfile
+
+from .rustsrc import RustSource
+from .report import ScanResult, Finding
+from .detectors import KNOWN_DETECTORS
+from .arithmetic import ARITHMETIC_DETECTORS
+from .semantic import SEMANTIC_DETECTORS
+from .securitytxt import find_contact_in_tree, check_cargo_overflow
+
+ALL_DETECTORS = KNOWN_DETECTORS + ARITHMETIC_DETECTORS + SEMANTIC_DETECTORS
+
+SKIP_DIRS = {"target", "node_modules", ".git", "test-ledger"}
+
+# Files/dirs that are tests, examples or reference material — not deployed code.
+_TEST_PATH_HINTS = ("/tests/", "/test/", "/reference/", "/examples/", "/example/",
+                    "/mock/", "/mocks/", "/fixtures/", "/benches/")
+_TEST_FILE_HINTS = ("_test.rs", "test_", "tests.rs", "_tests.rs", "mock.rs")
+# Lines that only appear in test code.
+_TEST_LINE_HINTS = ("assert_eq!", "assert_ne!", "assert!", "#[test]",
+                    "#[cfg(test)]", "println!", "dbg!")
+
+
+def _is_test_path(path: str) -> bool:
+    p = "/" + path.replace("\\", "/").lower()
+    if any(h in p for h in _TEST_PATH_HINTS):
+        return True
+    base = p.rsplit("/", 1)[-1]
+    return any(h in base for h in _TEST_FILE_HINTS)
+
+
+def filter_noise(findings: list[Finding], include_tests: bool = False) -> list[Finding]:
+    """Drop test/reference findings and collapse duplicates.
+
+    This is the deterministic half of triage: it removes what is provably not
+    deployed code (test files, `assert_eq!` lines) and merges identical hits.
+    The *judgment* half — can this realistically be exploited — is left to the
+    reviewer (or the optional LLM review layer).
+    """
+    out, seen = [], set()
+    for f in findings:
+        if not include_tests:
+            if _is_test_path(f.file):
+                continue
+            if any(h in f.snippet for h in _TEST_LINE_HINTS):
+                continue
+        key = (f.rule_id, f.file, f.line)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(f)
+    return out
+
+
+def scan_source(text: str, path: str = "<memory>") -> list[Finding]:
+    src = RustSource(text, path)
+    findings: list[Finding] = []
+    for det in ALL_DETECTORS:
+        try:
+            findings.extend(det(src))
+        except Exception as e:  # a detector must never kill the scan
+            findings.append(Finding(
+                rule_id="SOL-INTERNAL",
+                title=f"detector {det.__name__} raised",
+                severity="Info", confidence="Low", file=path, line=0,
+                snippet="", detail=str(e), recommendation="",
+                needs_manual_review=False))
+    return findings
+
+
+def _program_name(root: str) -> str:
+    for dirpath, _d, files in os.walk(root):
+        if "Cargo.toml" in files and "target" not in dirpath.split(os.sep):
+            try:
+                txt = open(os.path.join(dirpath, "Cargo.toml")).read()
+                import re
+                m = re.search(r'name\s*=\s*"([^"]+)"', txt)
+                if m:
+                    return m.group(1)
+            except OSError:
+                pass
+    return os.path.basename(root.rstrip("/"))
+
+
+def scan_path(path: str, include_tests: bool = False) -> ScanResult:
+    result = ScanResult(target=path)
+    rs_files = []
+    if os.path.isfile(path) and path.endswith(".rs"):
+        rs_files = [path]
+        root = os.path.dirname(path) or "."
+    else:
+        root = path
+        for dp, dirs, files in os.walk(path):
+            dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+            for f in files:
+                if f.endswith(".rs"):
+                    rs_files.append(os.path.join(dp, f))
+
+    result.program_name = _program_name(root)
+    for fp in rs_files:
+        try:
+            text = open(fp, encoding="utf-8", errors="ignore").read()
+        except OSError as e:
+            result.errors.append(f"{fp}: {e}")
+            continue
+        rel = os.path.relpath(fp, root) if os.path.isdir(path) else fp
+        for f in scan_source(text, rel):
+            result.findings.append(f)
+    result.files_scanned = len(rs_files)
+
+    # project-level checks + disclosure contact
+    try:
+        result.findings.extend(check_cargo_overflow(root))
+        result.contact = find_contact_in_tree(root)
+    except Exception as e:
+        result.errors.append(f"metadata: {e}")
+
+    # deterministic triage: drop test/reference noise + collapse duplicates
+    raw = len(result.findings)
+    result.findings = filter_noise(result.findings, include_tests=include_tests)
+    result.noise_removed = raw - len(result.findings)
+    return result
+
+
+def clone_and_scan(github_url: str, ref: str | None = None,
+                   include_tests: bool = False) -> ScanResult:
+    """Clone a public repo (github.com is reachable) and scan it."""
+    tmp = tempfile.mkdtemp(prefix="solscan_")
+    cmd = ["git", "clone", "--depth", "1"]
+    if ref:
+        cmd += ["--branch", ref]
+    cmd += [github_url, tmp]
+    subprocess.run(cmd, check=True, capture_output=True, text=True)
+    res = scan_path(tmp, include_tests=include_tests)
+    res.target = github_url
+    return res

@@ -1,0 +1,50 @@
+# ── secrets ──────────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# ── Python venvs / caches ────────────────────────────────────────────────
+.venv-evm/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# ── EVM / Slither tool caches (recreated by solc-select / crytic-compile) ─
+.solc-select/
+crytic-export/
+
+# ── Foundry fuzz working dirs (generated per target by fuzz_scan.py) ──────
+# Includes out/, cache/, anvil.log and the auto-cloned forge-std under _lib/.
+fuzz-work/
+
+# ── Generated scan/report output (regenerable; keep curated triage-*.md) ──
+evm-reports/
+fuzz-reports/
+*-report.json
+*-report.md
+*-scan.txt
+
+# ── Compiled Solana programs (fetched on-chain for byte comparison) ───────
+*.so
+
+# ── Cloned target repositories & large candidate-data dumps ───────────────
+# These are external code / data, re-cloned or re-fetched on demand — not ours.
+targets/
+samples/
+shortlist/repos/
+shortlist/repos2/
+shortlist/s20/
+shortlist/s500/
+shortlist/next/
+shortlist/bulk/
+shortlist/quarry-v5.2.0/
+shortlist/llama.json
+
+# ── OS noise ──────────────────────────────────────────────────────────────
+.DS_Store

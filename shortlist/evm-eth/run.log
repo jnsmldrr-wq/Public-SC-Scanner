@@ -1,0 +1,198 @@
+[13/278] Ammalgam Vaults                ADRES ONBEKEND
+[14/278] Angle                          EIGEN CODE (integreert Curve (Vyper), Yearn)
+[15/278] Angstrom                       FORK/STANDAARD: Uniswap V4 (kenmerken in code)
+[16/278] Anvil                          EIGEN CODE
+[17/278] Apex Omni                      ADRES ONBEKEND
+[18/278] ApeX Pro                       ADRES ONBEKEND
+[19/278] Api3                           EIGEN CODE
+[20/278] Apostro                        ADRES ONBEKEND
+[21/278] Arbitrum Nova Bridge           ADRES ONBEKEND
+[22/278] Arrakis V1                     EIGEN CODE
+[23/278] Asymmetry Finance              EIGEN CODE
+[24/278] Augur                          ADRES ONBEKEND
+[25/278] Aura                           FORK/STANDAARD: Convex
+[26/278] Aurus                          STANDAARD-template: OpenZeppelin-only (dunne eigen laag)
+[27/278] Avantgarde                     ADRES ONBEKEND
+[28/278] B.Protocol                     EIGEN CODE (integreert MakerDAO)
+[29/278] Backpack                       n.v.t. (CEX)
+[30/278] Badger DAO                     ADRES ONBEKEND
+[31/278] Balancer V1                    ADRES ONBEKEND
+[32/278] Balancer V2                    ADRES ONBEKEND
+[33/278] Balancer V3                    ADRES ONBEKEND
+[34/278] Bancor V2.1                    EIGEN CODE
+[35/278] Bancor V3                      EIGEN CODE
+[36/278] Baseline Protocol              EIGEN CODE
+[37/278] BendDAO APE Staking            ADRES ONBEKEND
+[38/278] Bifrost Liquid Staking         ADRES ONBEKEND
+[39/278] BigONE                         n.v.t. (CEX)
+[40/278] Bio Protocol                   EIGEN CODE
+[41/278] Bitlo                          n.v.t. (CEX)
+[42/278] BitMart                        n.v.t. (CEX)
+[43/278] Bitrue                         n.v.t. (CEX)
+[44/278] BitVenus                       n.v.t. (CEX)
+[45/278] Bitwise                        ADRES ONBEKEND
+[46/278] Blast Bridge                   EIGEN CODE
+[47/278] Blast pre-launch Farm          EIGEN CODE
+[48/278] Blur Bids                      ADRES ONBEKEND
+[49/278] Blur Lending                   ADRES ONBEKEND
+[50/278] BOB Bridge                     ADRES ONBEKEND
+[51/278] Boba Bridge                    ADRES ONBEKEND
+[52/278] BounceBit Prime                GEEN VERIFIED SOURCE (implementation)
+[53/278] Brickken                       EIGEN CODE
+[54/278] BYDFi                          n.v.t. (CEX)
+[55/278] Byte Exchange                  n.v.t. (CEX)
+[56/278] Capyfi                         ADRES ONBEKEND
+[57/278] cBridge                        ADRES ONBEKEND
+[58/278] CEX.IO                         n.v.t. (CEX)
+[59/278] Chain Fusion                   ADRES ONBEKEND
+[60/278] ClayStack ETH                  ADRES ONBEKEND
+[61/278] CLever                         FORK/STANDAARD: Balancer V2
+[62/278] Compound V1                    EIGEN CODE
+[63/278] Contango V2                    EIGEN CODE
+[64/278] Convergence Fi                 STANDAARD-template: OpenZeppelin-only (dunne eigen laag)
+[65/278] CRETH2                         STANDAARD-template: OpenZeppelin-only (dunne eigen laag)
+[66/278] cVault Finance                 ADRES ONBEKEND
+[67/278] Cyclone                        ADRES ONBEKEND
+[68/278] DAMM Capital                   ADRES ONBEKEND
+[69/278] deBridge                       EIGEN CODE
+[70/278] Decentralized Euro             EIGEN CODE
+[71/278] Defi Swap                      ADRES ONBEKEND
+[72/278] DeFIL                          FORK/STANDAARD: Uniswap V2
+[73/278] Dialectic                      STANDAARD-template: ERC-4626 vault (OpenZeppelin/solmate)
+[74/278] Digital Gold                   EIGEN CODE
+[75/278] Dinero (pxETH)                 EIGEN CODE
+[76/278] DODO AMM                       EIGEN CODE
+[77/278] Easedefi.org                   EIGEN CODE
+[78/278] Eclipse Bridge                 ADRES ONBEKEND
+[79/278] edgeX Bridge                   ADRES ONBEKEND
+[80/278] Eigenpie                       EIGEN CODE
+[81/278] Ekubo                          FORK/STANDAARD: Uniswap V3 (kenmerken in code)
+[82/278] Ensuro                         EIGEN CODE
+[83/278] Equilibria                     EIGEN CODE (integreert Convex)
+[84/278] ETH Strategy                   STANDAARD-template: ERC-4626 vault (OpenZeppelin/solmate)
+[85/278] Ethereal Season Zero           ADRES ONBEKEND
+[86/278] EtherFlip                      ADRES ONBEKEND
+[87/278] eva Markets                    ADRES ONBEKEND
+[88/278] Fake World Assets V2           EIGEN CODE
+[89/278] FermiSwap                      EIGEN CODE
+[90/278] Fira                           EIGEN CODE
+[91/278] Flex                           EIGEN CODE (integreert Curve (Vyper), Yearn)
+[92/278] Flexa                          ADRES ONBEKEND
+[93/278] Flipster                       n.v.t. (CEX)
+[94/278] FlokiFi Locker                 ADRES ONBEKEND
+[95/278] Flying Tulip Lend              EIGEN CODE
+[96/278] Fomo3D                         ADRES ONBEKEND
+[97/278] Frax Swap                      EIGEN CODE (integreert Uniswap V2)
+[98/278] Fuel Bridge                    ADRES ONBEKEND
+[99/278] GAIB                           EIGEN CODE
+[100/278] Gamma                          EIGEN CODE
+[101/278] Gate US                        n.v.t. (CEX)
+[102/278] Gnosis Protocol v1             EIGEN CODE
+[103/278] Goldfinch                      GEEN VERIFIED SOURCE (implementation)
+[104/278] Gondi V3                       ADRES ONBEKEND
+[105/278] Gravity by Galxe               ADRES ONBEKEND
+[106/278] Gro                            EIGEN CODE
+[107/278] Hakka Finance                  ADRES ONBEKEND
+[108/278] Harvest Finance                ADRES ONBEKEND
+[109/278] HashKey Global                 n.v.t. (CEX)
+[110/278] Hashport                       STANDAARD-template: OpenZeppelin-only (dunne eigen laag)
+[111/278] Hegic                          ADRES ONBEKEND
+[112/278] Hemi                           ADRES ONBEKEND
+[113/278] Hibt                           n.v.t. (CEX)
+[114/278] Hop Protocol                   ADRES ONBEKEND
+[115/278] Hub Capital                    ADRES ONBEKEND
+[116/278] Hyperlane                      ADRES ONBEKEND
+[117/278] IDEX Classic                   EIGEN CODE
+[118/278] Idle                           EIGEN CODE (integreert Uniswap V3)
+[119/278] InceptionLRT (Isolated Restaki EIGEN CODE
+[120/278] Index Coop                     FORK/STANDAARD: Aave V2/V3 (kenmerken in code)
+[121/278] Injective Bridge               ADRES ONBEKEND
+[122/278] Interest Protocol              GEEN VERIFIED SOURCE (implementation)
+[123/278] Inverse Finance Frontier       FORK/STANDAARD: Compound V2
+[124/278] Juicebox V1                    ADRES ONBEKEND
+[125/278] K2                             ADRES ONBEKEND
+[126/278] Kamui                          ADRES ONBEKEND
+[127/278] Katana Pre-Launch              EIGEN CODE (integreert Curve (Vyper), Yearn)
+[128/278] Keep3r Network                 EIGEN CODE
+[129/278] Keyrock                        ADRES ONBEKEND
+[130/278] King Protocol                  EIGEN CODE
+[131/278] KUMA Protocol                  EIGEN CODE
+[132/278] LandX Finance                  FORK/STANDAARD: Uniswap V3 (kenmerken in code)
+[133/278] Latch                          EIGEN CODE
+[134/278] LBank                          n.v.t. (CEX)
+[135/278] LendFlare                      EIGEN CODE
+[136/278] LeveX                          n.v.t. (CEX)
+[137/278] Lista DEX                      ADRES ONBEKEND
+[138/278] Lista Lending                  EIGEN CODE
+[139/278] Llama Airforce                 EIGEN CODE
+[140/278] LUSD ChickenBonds              EIGEN CODE (integreert Yearn)
+[141/278] MCDEX                          EIGEN CODE
+[142/278] MegaETH Bridge                 ADRES ONBEKEND
+[143/278] Mento V2                       ADRES ONBEKEND
+[144/278] Metronome Synth                ADRES ONBEKEND
+[145/278] MEV Capital                    FORK/STANDAARD: Morpho / MetaMorpho
+[146/278] Mezo Bridge                    ADRES ONBEKEND
+[147/278] Mode Bridge                    ADRES ONBEKEND
+[148/278] Morph Bridge                   EIGEN CODE
+[149/278] mStable CDP                    EIGEN CODE
+[150/278] mStable V2                     EIGEN CODE (integreert Uniswap V4, Gnosis Safe)
+[151/278] Mt Pelerin                     ADRES ONBEKEND
+[152/278] Multichain                     EIGEN CODE
+[153/278] NaraUSD                        EIGEN CODE
+[154/278] Native Credit Pool             EIGEN CODE
+[155/278] NEMO Trading                   EIGEN CODE
+[156/278] NFTX                           EIGEN CODE
+[157/278] Niza                           n.v.t. (CEX)
+[158/278] Notional V2                    ADRES ONBEKEND
+[159/278] Nucleus                        EIGEN CODE
+[160/278] NUVA                           EIGEN CODE
+[161/278] Odyssey Digital AM             ADRES ONBEKEND
+[162/278] Odyssey Finance                ADRES ONBEKEND
+[163/278] Okcoin                         n.v.t. (CEX)
+[164/278] OpenGDP Shared Security        STANDAARD-template: ERC-4626 vault (OpenZeppelin/solmate)
+[165/278] Opyn Gamma                     EIGEN CODE
+[166/278] OrangeX                        n.v.t. (CEX)
+[167/278] Orderly Bridge                 EIGEN CODE
+[168/278] Origin ARM                     EIGEN CODE
+[169/278] Origin Dollar                  EIGEN CODE
+[170/278] Ourbit                         n.v.t. (CEX)
+[171/278] Outcome Finance                EIGEN CODE
+[172/278] P2PB2B                         n.v.t. (CEX)
+[173/278] PancakeSwap AMM                EIGEN CODE (integreert Uniswap V2)
+[174/278] Panoptic V2                    EIGEN CODE (integreert Uniswap V3, Uniswap V4)
+[175/278] Penpie                         FORK/STANDAARD: Convex (kenmerken in code)
+[176/278] Pickle                         FORK/STANDAARD: Curve (Vyper)
+[177/278] PinkSale                       FORK/STANDAARD: Uniswap V2 (kenmerken in code)
+[178/278] Pionex                         n.v.t. (CEX)
+[179/278] Pirex                          EIGEN CODE (integreert Synthetix StakingRewards)
+[180/278] pNetwork                       ADRES ONBEKEND
+[181/278] PoolTogether V3                ADRES ONBEKEND
+[182/278] PoWH3D                         ADRES ONBEKEND
+[183/278] Presto                         ADRES ONBEKEND
+[184/278] Privacy Pools                  STANDAARD-template: OpenZeppelin-only (dunne eigen laag)
+[185/278] ProBit Global                  n.v.t. (CEX)
+[186/278] Punks Terminal                 EIGEN CODE
+[187/278] Rainbow Bridge                 ADRES ONBEKEND
+[188/278] Rari Capital                   PROXY (implementation niet bepaald)
+[189/278] Re7 Labs                       ADRES ONBEKEND
+[190/278] Reflexer                       ADRES ONBEKEND
+[191/278] Reservoir Protocol             STANDAARD-template: ERC-4626 vault (OpenZeppelin/solmate)
+[192/278] Resolv USR                     STANDAARD-template: OpenZeppelin-only (dunne eigen laag)
+[193/278] Revert Lend                    ADRES ONBEKEND
+[194/278] Reya Bridge                    ADRES ONBEKEND
+[195/278] Rezerve Lending                FORK/STANDAARD: Euler V2 (EVK / Earn)
+[196/278] Ribbon                         EIGEN CODE
+[197/278] Ribbon Earn                    EIGEN CODE
+[198/278] Ronin Bridge                   ADRES ONBEKEND
+[199/278] Rook                           ADRES ONBEKEND
+[200/278] Royco V2                       EIGEN CODE
+[201/278] Rysk V12                       ADRES ONBEKEND
+[202/278] Sablier Lockup                 ADRES ONBEKEND
+[203/278] Saddle Finance                 EIGEN CODE
+[204/278] Saffron Vaults                 EIGEN CODE
+[205/278] SATO                           FORK/STANDAARD: Uniswap V4 (kenmerken in code)
+[206/278] Seamless V2                    STANDAARD-template: ERC-4626 vault (OpenZeppelin/solmate)
+[207/278] Set Protocol                   FORK/STANDAARD: Compound V2
+[208/278] Shape Bridge                   ADRES ONBEKEND
+[209/278] SharpByte Capital              ADRES ONBEKEND
+[210/278] ShibaSwap V1                   ADRES ONBEKEND
